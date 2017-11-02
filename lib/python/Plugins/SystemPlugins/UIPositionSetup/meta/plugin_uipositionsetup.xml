@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>UIPositionSetup</name>
+                    <packagename>enigma2-plugin-systemplugins-uipositionsetup</packagename>
+                    <shortdescription>Adjust screen position</shortdescription>
+                    <description>Adjust screen position</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-uipositionsetup" />
+	</files>
+</default>

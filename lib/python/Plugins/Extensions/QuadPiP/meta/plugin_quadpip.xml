@@ -1,0 +1,17 @@
+<default>
+	  <prerequisites>
+                    <tag type="Display" />
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>Quad PiP</name>
+                    <packagename>enigma2-plugin-extensions-quadpip</packagename>
+                    <shortdescription>Support Quad PiP of your VU+</shortdescription>
+                    <description>Support Quad PiP of your VU+</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-extensions-quadpip" />
+	</files>
+</default>

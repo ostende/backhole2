@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>DeviceManager</name>
+                    <packagename>enigma2-plugin-systemplugins-devicemanager</packagename>
+                    <shortdescription>Manage block devices of your VU+</shortdescription>
+                    <description>Manage block devices of your VU+</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-devicemanager" />
+	</files>
+</default>

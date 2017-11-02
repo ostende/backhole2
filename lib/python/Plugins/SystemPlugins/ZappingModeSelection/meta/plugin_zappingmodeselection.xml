@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>ZappingModeSelection</name>
+                    <packagename>enigma2-plugin-systemplugins-zappingmodeselection</packagename>
+                    <shortdescription>Select Zapping Mode</shortdescription>
+                    <description>Select Zapping Mode, HOLD or MUTE</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-zappingmodeselection" />
+	</files>
+</default>

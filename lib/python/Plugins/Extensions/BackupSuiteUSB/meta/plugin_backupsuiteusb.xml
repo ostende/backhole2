@@ -1,0 +1,15 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>Pedro_Newbie</author>
+                    <name>BackupSuiteUSB</name>
+                    <packagename>enigma2-plugin-extensions-backupsuiteusb</packagename>
+                    <shortdescription>Back-up tool for the VU+ models</shortdescription>
+                    <description>Back-up tool for the VU+ models</description>
+          </info>
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-extensions-backupsuiteusb" />
+	  </files>
+</default>

@@ -1,0 +1,17 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info language="en">
+                    <author>hschang</author>
+                    <name>WirelessLanSetup</name>
+                    <packagename>enigma2-plugin-systemplugins-wirelesslansetup</packagename>
+                    <shortdescription>Wireless LAN Setup plugin</shortdescription>
+                    <description>Wireless LAN setting and search AP and show status.
+                    </description>
+          </info>
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-wirelesslansetup" />
+	</files>
+
+</default>

@@ -1,0 +1,398 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DeviceManager\n"
+"POT-Creation-Date: 2012-09-26 18:09+KST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: ../plugin.py:70 ../plugin.py:1238
+msgid "Cancel"
+msgstr ""
+
+#: ../plugin.py:71
+msgid "OK"
+msgstr ""
+
+#: ../plugin.py:83
+msgid "DeviceManager configuration"
+msgstr ""
+
+#: ../plugin.py:87
+msgid "Enable mount check for HDD : "
+msgstr ""
+
+#: ../plugin.py:88
+msgid "Harddisk standby after : "
+msgstr ""
+
+#: ../plugin.py:89
+msgid "Mount known devices automatically : "
+msgstr ""
+
+#: ../plugin.py:159 ../plugin.py:218
+msgid "Close"
+msgstr ""
+
+#: ../plugin.py:205
+msgid "Umount"
+msgstr ""
+
+#: ../plugin.py:207 ../plugin.py:259
+msgid "Mount"
+msgstr ""
+
+#: ../plugin.py:212 ../plugin.py:261
+msgid "Check"
+msgstr ""
+
+#: ../plugin.py:219 ../plugin.py:277
+msgid "Ok"
+msgstr ""
+
+#: ../plugin.py:221
+msgid "Initialize"
+msgstr ""
+
+#: ../plugin.py:226
+msgid "device : %s"
+msgstr ""
+
+#: ../plugin.py:227 ../plugin.py:250
+msgid "Size : %s"
+msgstr ""
+
+#: ../plugin.py:228
+msgid "Partitions : %s"
+msgstr ""
+
+#: ../plugin.py:229
+msgid "Removable : %s"
+msgstr ""
+
+#: ../plugin.py:246
+msgid "Partition : /dev/%s"
+msgstr ""
+
+#: ../plugin.py:247
+msgid "Mounted on : %s"
+msgstr ""
+
+#: ../plugin.py:247
+msgid "not mounted"
+msgstr ""
+
+#: ../plugin.py:248
+msgid "UUID : %s"
+msgstr ""
+
+#: ../plugin.py:248 ../plugin.py:249 ../plugin.py:250 ../plugin.py:251
+msgid "unknown"
+msgstr ""
+
+#: ../plugin.py:249
+msgid "Type : %s"
+msgstr ""
+
+#: ../plugin.py:251
+msgid "Free : %s"
+msgstr ""
+
+#: ../plugin.py:258
+msgid "Devices"
+msgstr ""
+
+#: ../plugin.py:260
+msgid "Format"
+msgstr ""
+
+#: ../plugin.py:267 ../plugin.py:312
+msgid ""
+"No partition list found on device.\n"
+"Please click BLUE key and do Initialize to use this device."
+msgstr ""
+
+#: ../plugin.py:274
+msgid ""
+"This partition is not mountable.\n"
+"You need to check or format this partition."
+msgstr ""
+
+#: ../plugin.py:276
+msgid "Partitions"
+msgstr ""
+
+#: ../plugin.py:286
+msgid "Mount Point : %s ->%s"
+msgstr ""
+
+#: ../plugin.py:286
+msgid "Set up Default Mount Point"
+msgstr ""
+
+#: ../plugin.py:287
+msgid "Automatically set up a Mount Point"
+msgstr ""
+
+#: ../plugin.py:287
+msgid "Mount Point : %s -> %s"
+msgstr ""
+
+#: ../plugin.py:288
+msgid "Mount Point : click ok button on here."
+msgstr ""
+
+#: ../plugin.py:288
+msgid "User manually Set up a Mount Point"
+msgstr ""
+
+#: ../plugin.py:380 ../plugin.py:596
+msgid "ext2 - recommended for USB flash memory"
+msgstr ""
+
+#: ../plugin.py:381 ../plugin.py:597
+msgid "ext3 - recommended for harddisks"
+msgstr ""
+
+#: ../plugin.py:382 ../plugin.py:598
+msgid "ext4 - experimental"
+msgstr ""
+
+#: ../plugin.py:383 ../plugin.py:599
+msgid "vfat - for USB flash memory"
+msgstr ""
+
+#: ../plugin.py:384 ../plugin.py:600
+msgid "Choice filesystem."
+msgstr ""
+
+#: ../plugin.py:401
+msgid ""
+"Can't umount %s. \n"
+"Maybe device or resource busy."
+msgstr ""
+
+#: ../plugin.py:426
+msgid ""
+"Can not use this mount point.(%s) \n"
+"Please select another mount point."
+msgstr ""
+
+#: ../plugin.py:450
+msgid ""
+"Mount Failed!\n"
+"Current path is already mounted by \"%s\""
+msgstr ""
+
+#: ../plugin.py:467 ../plugin.py:474
+msgid ""
+"Mount Failed!\n"
+"(%s -> %s)"
+msgstr ""
+
+#: ../plugin.py:494
+msgid ""
+"Mount Point is not writeable.\n"
+"Path : %s"
+msgstr ""
+
+#: ../plugin.py:530
+msgid ""
+"Do you really want to initialize the device?\n"
+"All data on the device will be lost!"
+msgstr ""
+
+#: ../plugin.py:563
+msgid "How many partitions do you want?(1-4)"
+msgstr ""
+
+#: ../plugin.py:570 ../plugin.py:592
+msgid "The number you entered is wrong!"
+msgstr ""
+
+#: ../plugin.py:581
+msgid "Input size of partition %s.(Max = %d MB)"
+msgstr ""
+
+#: ../plugin.py:619
+msgid ""
+"%s\n"
+"Start Device Inititlization?"
+msgstr ""
+
+#: ../plugin.py:629
+msgid "umounting failed!Maybe some files in mount point are open"
+msgstr ""
+
+#: ../plugin.py:631
+msgid "InitInitializing, please wait ..."
+msgstr ""
+
+#: ../plugin.py:632 ../plugin.py:896
+msgid ""
+"\n"
+"Device : %s"
+msgstr ""
+
+#: ../plugin.py:633
+msgid ""
+"\n"
+"Size : %s MB\n"
+msgstr ""
+
+#: ../plugin.py:635
+msgid ""
+"\n"
+"partition %d : %s MB"
+msgstr ""
+
+#: ../plugin.py:714
+msgid "Create filesystem, please wait ..."
+msgstr ""
+
+#: ../plugin.py:715
+msgid ""
+"\n"
+"Partition : %s"
+msgstr ""
+
+#: ../plugin.py:716 ../plugin.py:809 ../plugin.py:897
+msgid ""
+"\n"
+"Filesystem : %s"
+msgstr ""
+
+#: ../plugin.py:717
+msgid ""
+"\n"
+"Size : %d MB\n"
+msgstr ""
+
+#: ../plugin.py:727
+msgid "Creating filesystem Error"
+msgstr ""
+
+#: ../plugin.py:729
+msgid " at /dev/%s"
+msgstr ""
+
+#: ../plugin.py:749
+msgid "Device Initialization finished sucessfully!"
+msgstr ""
+
+#: ../plugin.py:787
+msgid ""
+"Do you really want to check the filesystem?\n"
+"This could take lots of time!"
+msgstr ""
+
+#: ../plugin.py:807
+msgid "Check filesystem, please wait ..."
+msgstr ""
+
+#: ../plugin.py:808
+msgid ""
+"\n"
+"Device : /dev/%s"
+msgstr ""
+
+#: ../plugin.py:830 ../plugin.py:936
+msgid ""
+"Can not umount device /dev/%s.\n"
+"Maybe some files of the filesystem are open"
+msgstr ""
+
+#: ../plugin.py:837
+msgid "Filesystem check finished sucessfully"
+msgstr ""
+
+#: ../plugin.py:840
+msgid "Error checking disk. The disk or filesystem may be damaged"
+msgstr ""
+
+#: ../plugin.py:895
+msgid "Format filesystem, please wait ..."
+msgstr ""
+
+#: ../plugin.py:898
+msgid ""
+"\n"
+"Size : %s"
+msgstr ""
+
+#: ../plugin.py:951
+msgid "Can not change the partition ID for %s"
+msgstr ""
+
+#: ../plugin.py:984
+msgid ""
+"Can not format device /dev/%s.\n"
+"refresh partition information failed!"
+msgstr ""
+
+#: ../plugin.py:998
+msgid ""
+"Make filesystem Error /dev/%s.\n"
+"Please check your device."
+msgstr ""
+
+#: ../plugin.py:1003
+msgid "Format finished sucessfully."
+msgstr ""
+
+#: ../plugin.py:1239
+msgid "Select"
+msgstr ""
+
+#: ../plugin.py:1240
+msgid "Create directory"
+msgstr ""
+
+#: ../plugin.py:1275
+msgid "Input mount point path."
+msgstr ""
+
+#: ../plugin.py:1287
+msgid ""
+"Create directory failed!\n"
+"%s"
+msgstr ""
+
+#: ../plugin.py:1298
+msgid ""
+"Delete directory failed!\n"
+"Maybe directory is not empty."
+msgstr ""
+
+#: ../plugin.py:1302
+msgid ""
+"Delete directory failed!\n"
+"%s"
+msgstr ""
+
+#: ../plugin.py:1622
+msgid ""
+"No mountable devices found.! (%s)\n"
+"Do you want to open DeviceManager and do initialize or format this device?\n"
+"\n"
+"(Open 'Menu->Setup->System -> Harddisk -> DeviceManager'\n"
+" and press MENU button to deactivate this check.)"
+msgstr ""
+
+#: ../plugin.py:1673 ../plugin.py:1681
+msgid "DeviceManager"
+msgstr ""
+
+#: ../plugin.py:1681
+msgid "manage block devices of your VU+"
+msgstr ""
+

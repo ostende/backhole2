@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pedro_Newbie <pedro.newbie@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteHDD/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteHDD/backup.sh' xx_XX"
+
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteUSB/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteUSB/backup.sh' xx_XX"
+
+msgid "not found, the backup process will be aborted!"
+msgstr ""
+
+msgid "-> no space left on back-up device"
+msgstr ""
+
+msgid "-> no writing permission on back-up device"
+msgstr ""
+
+msgid "Almost there... Now building the USB-Image!"
+msgstr ""
+
+msgid "and there is made an extra copy in: "
+msgstr ""
+
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr ""
+
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr ""
+
+msgid "backupstick or"
+msgstr ""
+
+msgid "backupstick.txt"
+msgstr "backupstick.txt"
+
+msgid "Additional backup -> "
+msgstr ""
+
+msgid "Create: kerneldump"
+msgstr ""
+
+msgid "Create: root.ubifs"
+msgstr ""
+
+msgid "Follow the instructions on the front-display."
+msgstr ""
+
+msgid "available "
+msgstr ""
+
+msgid "Full 1:1 back-up direct on USB"
+msgstr ""
+
+msgid "Full 1:1 back-up in USB format"
+msgstr ""
+
+msgid "Full back-up direct to USB"
+msgstr ""
+
+msgid "Full back-up on HDD"
+msgstr ""
+
+msgid "Full back-up to the harddisk"
+msgstr ""
+
+msgid "Full back-up on HDD/USB"
+msgstr ""
+
+msgid "Full back-up to USB"
+msgstr ""
+
+msgid "If you place an USB-stick containing this file then the back-up will be automatically made onto the USB-stick and can be used to restore the current image if necessary."
+msgstr ""
+
+msgid "Image creation FAILED!"
+msgstr ""
+
+msgid "No supported receiver found!"
+msgstr ""
+
+msgid "Old version bootloader found."
+msgstr ""
+
+msgid "Place the USB-flash drive in the (front) USB-port and switch the receiver off and on with the powerswitch on the back of the receiver."
+msgstr ""
+
+msgid "Please be patient, a backup will now be made, because of the used filesystem the back-up will take about 5-7 minutes for this system."
+msgstr ""
+
+msgid "Please check the manual of the receiver on how to restore the image."
+msgstr ""
+
+msgid "PLEASE READ THIS:"
+msgstr ""
+
+msgid "Please wait.... almost ready!"
+msgstr ""
+
+msgid "Press arrow up from frontpanel to start loading."
+msgstr ""
+
+msgid "Probable causes could be:"
+msgstr ""
+
+msgid "The content of the folder is:"
+msgstr ""
+
+msgid "The program will exit now."
+msgstr ""
+
+msgid "There is a valid USB-flashdrive detected in one of the USB-ports, therefore an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr ""
+
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr ""
+
+msgid "This only takes about 20 seconds....."
+msgstr ""
+
+msgid "To back-up directly to the USB-stick, the USB-stick MUST contain a file with the name:"
+msgstr ""
+
+msgid "Time required for this process: "
+msgstr ""
+
+msgid "To restore the image:"
+msgstr ""
+
+msgid "USB Image created in: "
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+"\n"
+"\n"
+"\n"
+
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+"\n"
+"\n"
+"\n"
+"\n"
+""
+
+msgid "minutes"
+msgstr ""

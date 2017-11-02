@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>UI3DSetup</name>
+                    <packagename>enigma2-plugin-systemplugins-ui3dsetup</packagename>
+                    <shortdescription>Adjust 3D settings</shortdescription>
+                    <description>Adjust 3D settings</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-ui3dsetup" />
+	</files>
+</default>

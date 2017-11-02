@@ -1,0 +1,2785 @@
+<?xml version="1.0"?>
+<stream>
+<iptv>
+	<name>France 1</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8</uri>
+</iptv>
+<iptv>
+	<name>France 2</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1040/02.m3u8</uri>
+</iptv>
+<iptv>
+	<name>France 3</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1050/02.m3u8</uri>
+</iptv>
+<iptv>
+	<name>France 4</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1300/02.m3u8</uri>
+</iptv>
+<iptv>
+	<name>France 5</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1060/02.m3u8</uri>
+</iptv>
+<iptv>
+	<name>Eurosport UK</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</uri>
+</iptv>
+<iptv>
+	<name>Eurosport2 UK</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</uri>
+</iptv>
+<iptv>
+	<name>NOVA SPORT HD CZECK</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://wcdn31.nacevi.cz:80/nova-sport?id=tlqYqcfNsAgWak7/nova-sport-288p.stream</uri>
+</iptv>
+<iptv>
+	<name>Sport 1</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://109.68.46.67:80/live/sport1-2.stream swfUrl=http://tv.jampo.com.ua/files/jwplayer/player.swf pageUrl=http://tv.jampo.com.ua/play/channel/sport1/ live=true</uri>
+</iptv>
+<iptv>
+	<name>Sport 2</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://109.68.46.67:80/live/sport2-2.stream swfUrl=http://tv.jampo.com.ua/files/jwplayer/player.swf pageUrl=http://tv.jampo.com.ua/play/channel/sport2/ live=true</uri>
+</iptv>
+<iptv>
+	<name>HDextreme</name>
+	<icon>hdextreme.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://hdimages.cdnvideo.ru/rr/HDextremeCDN</uri>
+</iptv>
+<iptv>
+	<name>REDUTA</name>
+	<icon>reduta.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s1.media-planet.sk/live/reduta</uri>
+</iptv>
+<iptv>
+	<name>9XM</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://23.21.155.146/zengalive/1504502501501502509011702501502502509xm50.sdp</uri>
+</iptv>
+<iptv>
+	<name>BBC World News</name>
+	<icon>bbcworldnews.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf pageUrl=http://www.livestation.com/channels/66-cnn-international swfVfy=true live=true</uri>
+</iptv>
+<iptv>
+	<name>Euro Sport</name>
+	<icon>eurosport.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://cp108478.live.edgefcs.net/live playpath=eurosport_1_800@45515 swfURL=http://www.wilmaa.com/player/main_v3.334.swf swfVfy=true live=true</uri>
+</iptv>
+<iptv>
+	<name>Playme</name>
+	<icon>playme.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://cp107974.live.edgefcs.net/live/ playpath=beep-flash-live@34654 live=true</uri>
+</iptv>
+<iptv>
+	<name>Sky TG24</name>
+	<icon>skytg24.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://cp49989.live.edgefcs.net/live/ swfurl=http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf playpath=streamRM1@2564 live=true</uri>
+</iptv>
+<iptv>
+	<name>Radio105 TV</name>
+	<icon>radio105.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://fms.105.net:1935/live/105Test1</uri>
+</iptv>
+<iptv>
+	<name>For Music</name>
+	<icon>formusic.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb</uri>
+</iptv>
+<iptv>
+	<name>Radio Montecarlo</name>
+	<icon>radiomontecarlo.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://fms.105.net:1935/live/rmc1</uri>
+</iptv>
+<iptv>
+	<name>SIC Noticias</name>
+	<icon>sicnoticias.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://213.13.26.12/live/sicnoticias.flv swfUrl=http://www.tvdez.com/player2.swf pageURL=http://www.tvdez.com/sicnoticias swfVfy=true live=true</uri>
+</iptv>
+<iptv>
+	<name>Fresh TV</name>
+	<icon>freshtv.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://www.planeta-online.tv:1936/live playpath=channel_4 swfUrl=http://www.planeta-online.tv/planeta_player.swf?ver=1345585527 pageUrl=http://www.planeta-online.tv/?ch=4 live=true</uri>
+</iptv>
+<iptv>
+	<name>Premiere TV-RU</name>
+	<icon>premieretvru.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://www.planeta-online.tv:1936/live playpath=channel_5 swfUrl=http://www.planeta-online.tv/planeta_player.swf?ver=1110761474 pageUrl=http://www.planeta-online.tv/?ch=5 live=true</uri>
+</iptv>
+<iptv>
+	<name>PikTV.com</name>
+	<icon>piktvcom.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://wms002.pik-tv.com/live/ playpath=piktv3pik3tv swfUrl=http://pik-tv.com/players/uppod/uppod.swf pageUrl=http://pik-tv.com/ live=true</uri>
+</iptv>
+<iptv>
+	<name>Rusia Today</name>
+	<icon>rusiatoday.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://rt.fms.visionip.tv/live/ app=live swfUrl=http://actualidad.rt.com/swf/player.swf pageUrl=http://actualidad.rt.com/mas/envivo/ playpath=RT_Spanish_3 live=true swfVfy=true</uri>
+</iptv>
+<iptv>
+	<name>Barb2</name>
+	<icon>barb2.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://www.planeta-online.tv:1936/live playpath=channel_6 swfUrl=http://www.planeta-online.tv/planeta_player.swf?ver=2095379291 pageUrl=http://www.planeta-online.tv/?ch=6 live=true</uri>
+</iptv>
+<iptv>
+	<name>Teltemadrid Sat</name>
+	<icon>teltemadridsat.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://cp118140.live.edgefcs.net/live/ playpath=TSAtelemadridsat@47720 swfUrl=http://jonas.do.am/player.swf pageUrl=http://jonas.do.am swfVfy=true live=true</uri>
+</iptv>
+<iptv>
+	<name>Kontra Channel</name>
+	<icon>kontrachannel.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://flashcloud.mediacdn.com/live/kontratv swfUrl=http://wwitv.com/player/player15.swf pageURL=http://www.kontrachannel.gr/ swfVfy=true live=true</uri>
+</iptv>
+<iptv>
+	<name>Nasa HD</name>
+	<icon>nasahd.png</icon>
+	<type>rtmp:4097:</type>
+	<uri>rtmp://cp76072.live.edgefcs.net/live/ pageUrl=http://www.nasa.gov/multimedia/nasatv/media_flash.html swfUrl=http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf Playpath=MED-HQ-Flash@42814 live=true</uri>
+</iptv>
+<iptv>
+	<name>AL JAZEERA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high playpath=aljazeera_ara_high swfUrl=http://www.elahmad.com/tv/swf/aljazeera_hd.swf swfVfy=true live=true timeout=10</uri>
+</iptv>
+<iptv>
+	<name>AL ARABIYA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media4.lsops.net/live/alarabiy_ar_high.sdp</uri>
+</iptv>
+<iptv>
+	<name>ALMAYADEEN TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://mentis.netromedia.net:1935/mentis1/mentis1 live=true</uri>
+</iptv>
+<iptv>
+	<name>EURONEWS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fr-par-5.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=ar_video350_flash_all.sdp swfUrl=http://arabic.euronews.com/media/player_live_1_13.swf?v=hghpl]&amp;autoplay=true&amp;lng=ar pageUrl=http://arabic.euronews.com/media/player_live_1_13 live=true</uri>
+</iptv>
+<iptv>
+	<name>SKY NEWS ARABIA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://llnwvps231.fc.llnwd.net:1935/llnwvps231/_definst_/eND-IS0mT2csspFA-2vGVs_PpXBJfdbQZ8v-XYOmlvQ4Y_854_480_736 playpath=eND-IS0mT2csspFA-2vGVs_PpXBJfdbQZ8v-XYOmlvQ4Y_854_480_736 swfUrl=http://s.delvenetworks.com/deployments/player/player-4.0.9.s live=true</uri>
+</iptv>
+<iptv>
+	<name>ORIENT TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://67.228.219.186/live/live3 live=true</uri>
+</iptv>
+<iptv>
+	<name>RUSSIA AL YAWM</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_1000k_1 app=rt/Russia_al_yaum_1000k_1 swfUrl=http://arabic.rt.com/style/liveplayer.swf pageURL=http://arabic.rt.com/live_high playpath=1000k_1 live=true</uri>
+</iptv>
+<iptv>
+	<name>CNBC Arabia</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media4.lsops.net/live/cnbc_ar_high.sdp</uri>
+</iptv>
+<iptv>
+	<name>CNBC USA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media8.lsops.net/live/cnbc_en_high.sdp</uri>
+</iptv>
+<iptv>
+	<name>RUSSIA TODAY</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://media4.lsops.net/live/ playpath=rustoday_en_high.sdp swfUrl=http://beta.cdn.livestation.com/player/5.10/livestation-player.swf pageUrl=http://www.livestation.com/en/rt/en live=true</uri>
+</iptv>
+<iptv>
+	<name>FRANCE 24 ENG</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://media10.lsops.net/live/ playpath=france24_en_high.sdp swfUrl=http://beta.cdn.livestation.com/player/5.10/livestation-player.swf pageUrl=http://www.livestation.com/en/france24/en live=true</uri>
+</iptv>
+<iptv>
+	<name>SKY NEWS</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media2.lsops.net/live/skynewsi_en_high.sdp</uri>
+</iptv>
+<iptv>
+	<name>News Channel 8</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.tbd.com:1935/live/?ovpfv=2.1.6 playpath=TBD-Live-Stream@31483 swfUrl=http://www.wjla.com/livestream_news8_120118.swf pageUrl=http://www.wjla.com/news/newschannel-8 playpath=TBD-Live-Stream@31483 live=1</uri>
+</iptv>
+<iptv>
+	<name>Fox5 News Studio</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp154697.live.edgefcs.net:1935/live?ovpfv=2.1.5 swfUrl=http://ftpcontent.worldnow.com/wttg/live/AkamaiFlashPlayer.swf pageUrl=http://ftpcontent.worldnow.com/wttg/live/Stream5WN.html playpath=WTTG_N5@55162 live=1</uri>
+</iptv>
+<iptv>
+	<name>MTV LEBANON</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/654/451 live=true</uri>
+</iptv>
+<iptv>
+	<name>AL JADEED</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://aljadeedlive.itw-hosting.net/jadeedlive playpath=live_2 swfUrl=http://www.itworks-me.net/jadeed/player.swf pageUrl=http://www.itworks-me.net/jadeed/ live=true</uri>
+</iptv>
+<iptv>
+	<name>LBC EUROPE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://livestreaming.itworkscdn.net/lbclive playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live live=true</uri>
+</iptv>
+<iptv>
+	<name>NOOR DUBAI</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream4.dmi.ae/live4/noordubai_source app=live4 playpath=noordubai_source swfUrl=http://statics.dubaimedia.ae/flv-player/player.swf pageUrl=http://www.dmi.ae/noordubai/live.asp swfVfy=true live=true</uri>
+</iptv>
+<iptv>
+	<name>DUBAI ONE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream4.dmi.ae/live4/dubaione_source app=live4/ playpath=dubaione_source swfUrl=http://statics.dubaimedia.ae/flv-player/player.swf pageUrl=http://www.dmi.ae/dubaione/live.asp swfVfy=true live=true</uri>
+</iptv>
+<iptv>
+	<name>AL FADY</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.truth-voice.net:1935/FadyLive playpath=FadyLive swfUrl=http://player.alfadytv.tv/player.swf pageUrl=http://www.alfadytv.tv/ live=true</uri>
+</iptv>
+<iptv>
+	<name>BARAEM TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://78.100.44.238/live-baraem/baraem</uri>
+</iptv>
+<iptv>
+	<name>ALJAZEERA KIDS</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://78.100.44.238/live-jscc/jscc</uri>
+</iptv>
+<iptv>
+	<name>ALAAN TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media10.lsops.net/live/alaan_ar_high.sdp</uri>
+</iptv>
+<iptv>
+	<name>ALDAFRAH TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.aldafrah.tv:1935/live/aldafrah1 live=true</uri>
+</iptv>
+<iptv>
+	<name>LIBYA TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media8.lsops.net/libyatv/libyatv_ar_medium.sdp</uri>
+</iptv>
+<iptv>
+	<name>ALULUA TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media4.lsops.net/live/bbcarab1_ar_high.sdp</uri>
+</iptv>
+<iptv>
+	<name>BAHRAIN TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://155.obj.netromedia.net/alayam/alayam live=true</uri>
+</iptv>
+<iptv>
+	<name>Dounia TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://douniamob.nanocdn.com:1935/live/dounia256</uri>
+</iptv>
+<iptv>
+	<name>C SAT</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://154.obj.netromedia.net/Copticsat playpath=Copticsat swfUrl=http://player.netromedia.com/flowplayer.rtmp-3.1.3.swf pageUrl=http://csat.tv/ live=true</uri>
+</iptv>
+<iptv>
+	<name>ALJAZEERA DOCUMENTRY TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high swfUrl=http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf live=true</uri>
+</iptv>
+<iptv>
+	<name>AL FAJER</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://217.66.226.36/alfajertvhigh/alfajertvhigh live=true</uri>
+</iptv>
+<iptv>
+	<name>BAN TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.visual-radio.tv/halabtv/halabtv.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>ALRAYAN TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://78.100.44.238/live-rayyantv/rtv</uri>
+</iptv>
+<iptv>
+	<name>ALWAAD TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname live=true</uri>
+</iptv>
+<iptv>
+	<name>FADAK TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://46.137.95.126/fadaktv/hb9 live=true</uri>
+</iptv>
+<iptv>
+	<name>HUDA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://204.45.81.227:1935/hudatvlive/hudatv live=true</uri>
+</iptv>
+<iptv>
+	<name>ISLAM CHANNEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wowza04.sharp-stream.com/islamtv/islamtv live=true</uri>
+</iptv>
+<iptv>
+	<name>AHLULBAYT</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://46.23.67.34:1935/live/livestream1.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>CFD Market</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.visual-radio.tv/forex/forex.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>Artmedia TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.visual-radio.tv/artmedia/artmedia.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>STARTREK ENTERPRISE HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=trekent swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%74%72%65%6B%65%6E%74 live=true</uri>
+</iptv>
+<iptv>
+	<name>HBO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://37.59.35.214/edge playpath=z28ie9oqoku4qoy swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=470&amp;height=360&amp;channel=36674&amp;autoplay=true live=true</uri>
+</iptv>
+<iptv>
+	<name>COMEDY CENTRAL HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=southpark swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%73%6F%75%74%68%70%61%72%6B live=true</uri>
+</iptv>
+<iptv>
+	<name>KING OF QUEENS 24/7 TV Show</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=koq swfUrl=http://www.owncast.me/player/player.swf pageUrl=http://www.owncast.me/embed.php?channel=1803&amp;vw=640&amp;vh=470&amp;domain=tgun.tv live=true</uri>
+</iptv>
+<iptv>
+	<name>FAMILY GUY 24/7 TV Show</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=familyguy swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/playerindex.php?%66%61%6D%69%6C%79%67%75%79 live=true</uri>
+</iptv>
+<iptv>
+	<name>THE SIMPSONS 24/7 TV Show</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=simpsons swfUrl=http://www.owncast.me/player/player.swf pageUrl=http://www.owncast.me/embed.php?channel=1807&amp;vw=640&amp;vh=470&amp;domain=tgun.tv live=true</uri>
+</iptv>
+<iptv>
+	<name>X FX</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=mwc swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%6D%77%63 live=true</uri>
+</iptv>
+<iptv>
+	<name>FRESH PRINCE OF BEL AIR</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=freshprince swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%66%72%65%73%68%70%72%69%6E%63%65 live=true</uri>
+</iptv>
+<iptv>
+	<name>BECKER</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=beck swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%62%65%63%6B live=true</uri>
+</iptv>
+<iptv>
+	<name>THE X FILES</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=xfiles swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%78%66%69%6C%65%73 live=true</uri>
+</iptv>
+<iptv>
+	<name>EVERYBODY LOVES RAYMOND</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=elr swfUrl=http://www.owncast.me/player/player.swf pageUrl=http://www.owncast.me/embed.php?channel=1798&amp;vw=600&amp;vh=530&amp;domain=tgun.tv live=true</uri>
+</iptv>
+<iptv>
+	<name>2 AND A HALF MAN</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=men swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%6D%65%6E live=true</uri>
+</iptv>
+<iptv>
+	<name>KING OF HILLS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=koth swfUrl=http://www.owncast.me/player/player.swf pageUrl=http://www.owncast.me/embed.php?channel=1817&amp;vw=640&amp;vh=470&amp;domain=tgun.tv live=true</uri>
+</iptv>
+<iptv>
+	<name>USA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=burnnotice swfUrl=http://www.owncast.me/player/player.swf pageUrl=http://www.owncast.me/embed.php?channel=1796&amp;vw=640&amp;vh=470&amp;domain=tgun.tv live=true</uri>
+</iptv>
+<iptv>
+	<name>THE BIOGRAPHY CHANNEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=nightcourt swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%6E%69%67%68%74%63%6F%75%72%74 live=true</uri>
+</iptv>
+<iptv>
+	<name>M.A.S.H.</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=mash swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%6D%61%73%68 live=true</uri>
+</iptv>
+<iptv>
+	<name>AXN</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.zcast.us:1935/liveorigin/_definst_/axnlacaja-ytCdskOKkN|rtmp://fr.zcast.us:1935/liveorigin/_definst_/axnlacaja-ytCdskOKkN playpath=axnlacaja-ytCdskOKkN swfUrl=http://player.zcast.us/player58.swf live=1 pageUrl=http://zcast.us/gen.p</uri>
+</iptv>
+<iptv>
+	<name>NBC</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=scrubs swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%73%63%72%75%62%73 live=true</uri>
+</iptv>
+<iptv>
+	<name>HOME SERIES</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=home swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%68%6F%6D%65 live=true</uri>
+</iptv>
+<iptv>
+	<name>METV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=ps swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%70%73 live=true</uri>
+</iptv>
+<iptv>
+	<name>SERIES</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=himym swfUrl=http://www.owncast.me/player/player.swf pageUrl=http://www.owncast.me/embed.php?channel=1820&amp;vw=640&amp;vh=470&amp;domain=tgun.tv live=true</uri>
+</iptv>
+<iptv>
+	<name>CLASSIC</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://188.165.233.9:51935/cblchannel/ch1/-11290293_quicklive playpath=-11290293_quicklive swfUrl=http://www.live-onweb.com/events/low_embed_channel.swf?id=93&amp;srv=http://www.live-onweb.com&amp;showonline=Y&amp;showsubtitle=Y&amp;audio=Y&amp;showtoolbar=Y&amp;showlogo live=true</uri>
+</iptv>
+<iptv>
+	<name>E NCA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://media10.lsops.net/live/ playpath=enca_en_high.sdp swfUrl=http://beta.cdn.livestation.com/player/5.10/livestation-player.swf pageUrl=http://www.livestation.com/en/enca live=true</uri>
+</iptv>
+<iptv>
+	<name>WRESTLING</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cdn.livecaster.tv/stream playpath=wwe2.stream swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/embed.php?u=wwe2&amp;vw=600&amp;vh=430 live=true</uri>
+</iptv>
+<iptv>
+	<name>UNHCR TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media2.lsops.net/unhcr/liveloop.sdp</uri>
+</iptv>
+<iptv>
+	<name>US TWit</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://bglive-a.bitgravity.com/twit/live/high</uri>
+</iptv>
+<iptv>
+	<name>TVW</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://enclive.tvwmedia.net/LiveVideoClient playpath=Live300 swfUrl=http://www.tvw.org/jwplayer/5.8/player.swf pageUrl=http://www.tvw.org/scripts/iframe_video.php?live live=true</uri>
+</iptv>
+<iptv>
+	<name>LOBAS TV (ES)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://149.11.34.6/live/lobas.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>PARTY TV (ES)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://149.11.34.6/live/partytv.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>UNLOVE TV (ES)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://149.11.34.6/live/unlovechannel.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>KISS TV (ES)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live swfUrl=http://kisstelevision.en-directo.com/kisstelevision_avw.swf pageUrl=http://www.kisstelevision.es playpath=live live=true</uri>
+</iptv>
+<iptv>
+	<name>Radio Monte Carlo TV (IT)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fms.105.net:1935/live swfUrl=http://www.highermedia.com/assets/flash/jw_player.swf pageUrl=http://www.highermedia.com playpath=rmc1 live=true</uri>
+</iptv>
+<iptv>
+	<name>Radio 105 Network TV (IT)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fms.105.net:1935/live swfUrl=http://www.105.net/com/universalmind/swf/video_player_102.swf pageUrl=http://www.105.net/tv/index/channel/105-tv playpath=105Test1 live=true</uri>
+</iptv>
+<iptv>
+	<name>Rouge TV (CH)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://rtmp.infomaniak.ch/livecast swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.95.swf?sTitle=&amp;sVersion=4E1E95&amp;sDescription= pageUrl=http://www.rougetv.ch/ playpath=rougetv live=true</uri>
+</iptv>
+<iptv>
+	<name>POP HD (RO)</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://93.114.43.3:1935/live/pophd</uri>
+</iptv>
+<iptv>
+	<name>MTV HD</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://93.114.43.3:1935/live/dancehd</uri>
+</iptv>
+<iptv>
+	<name>360 NORTH</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://state.ak.tvwmedia.net/ktoo-live playpath=360north swfUrl=http://www.360north.org/jwplayer5.9/player.swf pageUrl=http://www.360north.org/watch-360-north-live/ live=true</uri>
+</iptv>
+<iptv>
+	<name>SUPER CHANNEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cdn.rbm.tv/rightbrainmedia-live27/_definst_ playpath=wacxtv2 swfUrl=http://rightbrainmedia.com/player/player.swf pageUrl=http://rightbrainmedia.com/player/player.asp?file=wacxtv&amp;bitrates=2x&amp;height=360&amp;width=480&amp;autoplay=true&amp;stretching=exactf live=true</uri>
+</iptv>
+<iptv>
+	<name>CURB YOUR ENTHUSIASM</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=curbs swfUrl=http://www.owncast.me/player/player.swf pageUrl=http://www.owncast.me/embed.php?channel=1812&amp;vw=640&amp;vh=470&amp;domain=tgun.tv live=true</uri>
+</iptv>
+<iptv>
+	<name>FUTURAMA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=futurama swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%66%75%74%75%72%61%6D%61 live=true</uri>
+</iptv>
+<iptv>
+	<name>THE TAILOR PARK BOYS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://142.4.219.190/app playpath=tpb swfUrl=http://tgun.tv/jwplayer/player2.swf pageUrl=http://tgun.tv/shows/playerindex.php?%74%70%62 live=true</uri>
+</iptv>
+<iptv>
+	<name>AMERICAS AUCTION</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fml.dca.1179.edgecastcdn.net/201179 playpath=webcast swfUrl=http://www.aantv.com/flash/flowplayerC/flowplayer.commercial-3.1.2.swf?0.5038593276869059 pageUrl=http://www.aantv.com/livebidding.php live=true</uri>
+</iptv>
+<iptv>
+	<name>APOSTOLIC ONENESS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://uni2rtmp.tulix.tv:1935/aonlive playpath=myStream.sdp swfUrl=http://unistream2.tulix.tv/mediaplayer/player.swf pageUrl=http://www.streamwebtown.com/player/aon.php live=true</uri>
+</iptv>
+<iptv>
+	<name>BIBLE EXPLORATIONS TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.iphonewebtown.com/bibleexplorations/ playpath=bexplorations.stream swfUrl=http://www.flashwebtown.com/mediaplayer/player.swf pageUrl=http://www.bibleexplorations.com/ live=true</uri>
+</iptv>
+<iptv>
+	<name>FLORIDA CHANNEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://webcasting.thefloridachannel.org/live/tvweb1 live=true</uri>
+</iptv>
+<iptv>
+	<name>UNIVERSITY OF CALIFORNIA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800 live=true</uri>
+</iptv>
+<iptv>
+	<name>GTV615 Gulfport</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://67.79.130.6/live swfUrl=http://www.mygulfport.us/GTV615/myPlayer.swf pageUrl=http://de.wwitv.com/tv/b5446.htm playpath=GTV615 live=1</uri>
+</iptv>
+<iptv>
+	<name>KCCG Kansas</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://207.7.154.96/kansascity playpath=G0190_004 swfUrl=http://kansascity.granicus.com/core/Players/Flash/ModernFlashPlayer.swf pageUrl=http://kansascity.granicus.com/MediaPlayer.php?publish_id=568 live=true</uri>
+</iptv>
+<iptv>
+	<name>WHDH-TV 7 News</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://whdh.mpl.miisolutions.net/whdh-live01 playpath=mp4:7newslive swfUrl=http://www1.whdh.com/swf/player-viral.swf pageUrl=http://www1.whdh.com/video/7news-live_flv.php?width=480&amp;height=288 live=true</uri>
+</iptv>
+<iptv>
+	<name>ACTIVE CHANNEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://d1yolrx8wdti.rtmphost.com/simulcast/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>BELEIVE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://believetvlivefs.fplive.net/believetvlive-live/stream001 live=true</uri>
+</iptv>
+<iptv>
+	<name>PEACE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1 live=true</uri>
+</iptv>
+<iptv>
+	<name>PSYCHIC TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://93.89.84.214/iptv_psychic_cc/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>QVC UK</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp79650.live.edgefcs.net/live/QVCLive1@14308 live=true</uri>
+</iptv>
+<iptv>
+	<name>ROCKS &amp; CO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://rockscolivefs.fplive.net/rockscolive-live/stream002 live=true</uri>
+</iptv>
+<iptv>
+	<name>BID TV 1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wowza04.sharp-stream.com/speedauctiontv/speedauctiontv live=true</uri>
+</iptv>
+<iptv>
+	<name>BID TV 2</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wowza04.sharp-stream.com/bidtv/bidtv live=true</uri>
+</iptv>
+<iptv>
+	<name>BID TV 3</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wowza04.sharp-stream.com/pricedroptv/pricedroptv live=true</uri>
+</iptv>
+<iptv>
+	<name>TELIM TV HD</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://telimvod.proximit.fr:1935/live/myStream</uri>
+</iptv>
+<iptv>
+	<name>NORMANDIE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://rtmp.infomaniak.ch/livecast/normandietv live=true</uri>
+</iptv>
+<iptv>
+	<name>I TELE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live-fms.canalplus.fr/live/itele_800@42248 live=true</uri>
+</iptv>
+<iptv>
+	<name>GRAND LILLE TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://str81.creacast.com/grandlilletv/high</uri>
+</iptv>
+<iptv>
+	<name>MIRABELLE</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://str81.creacast.com/mirabelletv/medium</uri>
+</iptv>
+<iptv>
+	<name>AIR TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.air-tv.tv:1935/live/web2.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>M6 BOUTIQUE</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://flash3.ipercast.net/m6boutique.com-live/m6boutiquecom.stream_high</uri>
+</iptv>
+<iptv>
+	<name>TEBEO TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://tebeo.e-declic.tv:1935/tebeo_live/myStream.sdp</uri>
+</iptv>
+<iptv>
+	<name>TV 7</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://88.191.94.248/livtv7vo/mystream700.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>TVM EST PARISIEN</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://rtmp.infomaniak.ch/livecast/cineplume live=true</uri>
+</iptv>
+<iptv>
+	<name>NRJ 12</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp</uri>
+</iptv>
+<iptv>
+	<name>YVELINES TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://rtmp.infomaniak.ch/livecast/yveline1 live=true</uri>
+</iptv>
+<iptv>
+	<name>Q-MUSIC TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://vmmaeventlivefs.fplive.net:1935/vmmaeventlive-live/vmma.radio-sdh live=true</uri>
+</iptv>
+<iptv>
+	<name>RTC</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://rtc.webtvlive.eu:1935/live/rtc.stream</uri>
+</iptv>
+<iptv>
+	<name>B</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://46.105.119.61:1935/live/live.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>IM1 HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://im1.tv.flash.glb.ipercast.net/im1.tv-live/ playpath=live1 swfUrl=http://im1.tv.cms.ipercast.net/theme/im1/flash/player-5.7.swf pageUrl=http://www.im1.tv/ live=true</uri>
+</iptv>
+<iptv>
+	<name>TVA OSTBAYEM HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/ playpath=tvaktuellr.stream_1 swfUrl=http://www.tvaktuell.com/wp-content/plugins/cmms/assets/flash/player.swf pageUrl=http://www.tvaktuell.com/mediathek/kategorie/livestream/ live=true</uri>
+</iptv>
+<iptv>
+	<name>TV TOURING HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://tvtourings.iptv-playoutcenter.de:1935/tvtourings/ playpath=tvtourings.stream_1 swfUrl=http://www.tvtouring.de/wp-content/plugins/cmms/assets/flash/player.swf pageUrl=http://www.tvtouring.de/mediathek/kategorie/livestream/#.UPv6dDWJApQ live=true</uri>
+</iptv>
+<iptv>
+	<name>DW TV EUROPE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp135356.live.edgefcs.net/live/ playpath=dw_fl_tv-europa_m@s12801?auth=daEbMbUdYcQdAb.cdcUdhbWaOdMa3bbbVc3-bq.yYB-b4toa-uGuxjDsEtmFCq&amp;aifp=001 swfUrl=http://mediacenter.dw.de/js/jwplayer/player.swf pageUrl=http://mediacenter.dw.de/english/liv live=true</uri>
+</iptv>
+<iptv>
+	<name>BADEN TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://badentv-stream2.siebnich.info/rtplive/ playpath=vlc.sdp swfUrl=http://www2.baden-tv.com/flowplayer/flowplayer.commercial-3.2.15.swf pageUrl=http://www.baden-tv.com/web-tv live=true</uri>
+</iptv>
+<iptv>
+	<name>MDF 1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=MDF_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.medienportal-msa.de/index.php?kat=1&amp;prog=5 live=true</uri>
+</iptv>
+<iptv>
+	<name>TV OBERFRANKEN</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/ playpath=tvoberfranken_1 swfUrl=http://www.tvo.de/wp-content/plugins/cmms/assets/flash/player.swf pageUrl=http://www.tvo.de/mediathek/video/livestream/ live=true</uri>
+</iptv>
+<iptv>
+	<name>LIGHT CHANNEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streamer1.streamhost.org/salive playpath=lctvde swfUrl=http://www.lightchanneltv.de/swf/player.swf pageUrl=http://www.lightchanneltv.de/ live=true</uri>
+</iptv>
+<iptv>
+	<name>BIBEL TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://bibeltv.iptv-playoutcenter.de:1935/bibeltv playpath=bibeltv.stream swfUrl=http://bibeltv.ip-fernsehen.net/player/Player2.swf pageUrl=http://bibeltv.ip-fernsehen.net/ live=true</uri>
+</iptv>
+<iptv>
+	<name>SHOP 24 DIRECT</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streamserver.smartcast.de/stapa1i/ playpath=stapa1i.stream swfUrl=http://www.shop24direct.de/media/videos/player/jwplayer/player.swf pageUrl=http://www.shop24direct.de/live-tv live=true</uri>
+</iptv>
+<iptv>
+	<name>1-2-3 TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://xapp1951924224c38000.f.l.f.lb.core-cdn.net:1935/380001-2-3-tv?ovpfv=1.1 playpath=live/app1951924224/w1952022528/live_de_500 swfUrl=http://www.1-2-3.tv/auctionModules/MBC_Active_Wide_v18_1.swf pageUrl=http://www.1-2-3.tv/tv-auktion/ live=true</uri>
+</iptv>
+<iptv>
+	<name>CHANNEL 21</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://channel21livefs.fplive.net/channel21live-live/ playpath=channel211 swfUrl=http://www.channel21.de/is-bin/intershop.static/WFS/Channel21-DE-Site/-/de_DE/jwplayer/player.swf pageUrl=http://www.channel21.de/is-bin/INTERSHOP.enfinity/WFS/Channel2 live=true</uri>
+</iptv>
+<iptv>
+	<name>ASTRO TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://77.109.160.182/astrotv playpath=astrotv1 swfUrl=http://www.astrotv.de/export/system/modules/com.questico.commoncms.video/resources/player-licensed-5.2.swf pageUrl=http://www.astrotv.de/de/livetv/live-stream/index.html live=true</uri>
+</iptv>
+<iptv>
+	<name>PUNKTUM</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=punktum_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.medienportal-msa.de/index.php?kat=1&amp;prog=6 live=true</uri>
+</iptv>
+<iptv>
+	<name>OFFENER KANAL MERSEBURG-QUERFURT</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=ok-merseburg_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.merseburg-tv.de/index.php?option=com_content&amp;view=article&amp;id=114%3Alive-stream1&amp;catid=21&amp;Itemid=29 live=true</uri>
+</iptv>
+<iptv>
+	<name>OFFENER KANAL STENDAL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=ok-stendal_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.ok-stendal.de/live.html live=true</uri>
+</iptv>
+<iptv>
+	<name>OFFENER KANAL DESSAU</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=ok-dessau_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.medienportal-msa.de/index.php?kat=2&amp;prog=1 live=true</uri>
+</iptv>
+<iptv>
+	<name>OFFENER KANAL SALZWEDEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=ok-salzwedel_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.medienportal-msa.de/index.php?kat=2&amp;prog=6 live=true</uri>
+</iptv>
+<iptv>
+	<name>OFFENER KANAL WERNIGERODE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=ok-wernigerode_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.medienportal-msa.de/index.php?kat=2&amp;prog=7 live=true</uri>
+</iptv>
+<iptv>
+	<name>OFFENER KANAL WETTIN</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=ok-wettin_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.medienportal-msa.de/index.php?kat=2&amp;prog=3 live=true</uri>
+</iptv>
+<iptv>
+	<name>INFO TV LEIPZIG</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://141.57.112.25/live playpath=infokanal swfUrl=http://www.info-tv-leipzig.de/_customized/popups/flowplayer-3.1.1.swf?0.8808472493020271 pageUrl=http://www.info-tv-leipzig.de/streams/live-stream/ live=true</uri>
+</iptv>
+<iptv>
+	<name>RBW</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=rbw_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.medienportal-msa.de/index.php?kat=1&amp;prog=2 live=true</uri>
+</iptv>
+<iptv>
+	<name>BLK ONLINE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=BLKonline_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.medienportal-msa.de/index.php?kat=1&amp;prog=8 live=true</uri>
+</iptv>
+<iptv>
+	<name>Kiel TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.105/ltv-live playpath=livestream swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.blitzvideoserver06.de live=true</uri>
+</iptv>
+<iptv>
+	<name>Dresden TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video07.kanal8.de/dresdenfernsehenlive playpath=myStream.sdp swfUrl=http://www.dresden-fernsehen.de/jw/player/5.10/player.swf pageUrl=http://www.dresden-fernsehen.de/default.aspx?ID=6748 live=true</uri>
+</iptv>
+<iptv>
+	<name>Leipzig TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video61.kanal8.de/leipzigfernsehenlive playpath=myStream.sdp swfUrl=http://www.leipzig-fernsehen.de/jw/player/5.10/player.swf pageUrl=http://www.leipzig-fernsehen.de/default.aspx?ID=5851 live=true</uri>
+</iptv>
+<iptv>
+	<name>Sachsen Fernsehen Chemnitz</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video01.kanal8.de/sachsenfernsehenlive playpath=Ug4wic7Hf21mEidKRMBLb621GMGBHhWC swfUrl=http://www.sachsen-fernsehen.de/jw/player/5.10/player.swf pageUrl=http://www.sachsen-fernsehen.de/Zum-Livestream/Seite live=true</uri>
+</iptv>
+<iptv>
+	<name>Offener Kanal Magdeburg</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live playpath=ok-magdeburg_high swfUrl=http://www.blitzvideoserver06.de/blitzvideoplayer6.swf pageUrl=http://www.livefernseheniminternet.com/channel/Offener_Kanal_Magdeburg live=true</uri>
+</iptv>
+<iptv>
+	<name>AT 5</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://82.94.228.213:1935/broadcast/_definst_/stream1</uri>
+</iptv>
+<iptv>
+	<name>FOR MUSIC TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb live=true</uri>
+</iptv>
+<iptv>
+	<name>COMING SOON TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cwedge.cdcache.net/cwedge/CSLIVETV live=true</uri>
+</iptv>
+<iptv>
+	<name>RADIO MONTE CARLO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fms.105.net/live/rmc1 live=true</uri>
+</iptv>
+<iptv>
+	<name>TELEROMAGNA LIFESTYLE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.teleromagna.it/TeleromagnaLive/teleromagnaLifeStyle.stream_360p live=true</uri>
+</iptv>
+<iptv>
+	<name>VIRGIN RADIO TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fms.105.net:1935/live/virgin1 live=true</uri>
+</iptv>
+<iptv>
+	<name>SKY TG24</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp49989.live.edgefcs.net/live/streamRM1@2564 live=true</uri>
+</iptv>
+<iptv>
+	<name>SUDTIROL TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV</uri>
+</iptv>
+<iptv>
+	<name>ALTO ADIGE TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://77.72.196.214:8554/live/mp4:AltoAdigeTV</uri>
+</iptv>
+<iptv>
+	<name>ANTENNA 5</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fls.7.c3.audiovideoweb.com/live/7c3flslive1082 live=true</uri>
+</iptv>
+<iptv>
+	<name>CANALE DIECI</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://176.31.226.78/ch10live/stream1.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>ESPANSIONE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://flash3.ipercast.net/espansionetv.it-live/live_1 live=true</uri>
+</iptv>
+<iptv>
+	<name>G DI G CHANNEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://195.81.180.7/satellite/stream live=true</uri>
+</iptv>
+<iptv>
+	<name>LA 6</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://la6.stream.internetone.it/streaming/la6.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>LANDSCAPE CHANNEL</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://130.88.20.233:1237/test.flv</uri>
+</iptv>
+<iptv>
+	<name>LIRA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streaming.positivonet.it/live/liratv live=true</uri>
+</iptv>
+<iptv>
+	<name>MILANOW</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fl1.sz.xlcdn.com/live/sz=kgroup=milanow live=true</uri>
+</iptv>
+<iptv>
+	<name>TORINOW</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fl1.sz.xlcdn.com/live/sz=kgroup=torinow live=true</uri>
+</iptv>
+<iptv>
+	<name>QUARTARETE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://194.116.73.146/quartaretetv/quartareteweb live=true</uri>
+</iptv>
+<iptv>
+	<name>RADIO ITALIA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cwedge.cdcache.net/cwedge/rilive live=true</uri>
+</iptv>
+<iptv>
+	<name>ROMA UNO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://188.40.2.148/romauno/live.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>SARDEGNA UNO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://94.32.101.13/sardegna1/live1.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE BOARIO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://91.121.222.160/teleboariotb/teleboario.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE MARKET</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fms2.shared.streamshow.it/telemarket/telemarket live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE PAVIA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://fms.shared.streamshow.it:1935/telepavia/telepavia</uri>
+</iptv>
+<iptv>
+	<name>TELE PACE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://188.165.206.81:1935/telepacelive2/telepacestream.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE PADRE PIO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://lbw2.flash.streamuk.com:1935/mediaplatform/0_zjwnkqsv_2@37236 live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE ROMAGNA MIA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.teleromagna.it/TeleromagnaLive/teleromagnaMia.stream_360p live=true</uri>
+</iptv>
+<iptv>
+	<name>TELERITMO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://173.193.48.164/multimedios/1025_teleritmo live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE ROMAGNA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.teleromagna.it/TeleromagnaLive/teleromagna.stream_360p live=true</uri>
+</iptv>
+<iptv>
+	<name>TELEROMAGNA NEWS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.teleromagna.it/TeleromagnaLive/teleromagnaNews.stream_360p live=true</uri>
+</iptv>
+<iptv>
+	<name>TELEROMAGNA SPORT</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.teleromagna.it/TeleromagnaLive/teleromagnaSport.stream_360p live=true</uri>
+</iptv>
+<iptv>
+	<name>TELETERNI</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://livevideo.topserviceitalia.com/teleterni/teleterni live=true</uri>
+</iptv>
+<iptv>
+	<name>TOP GUSTO LOMBARDIA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fl1.sz.xlcdn.com/live/sz=kgroup=topgustolombardia live=true</uri>
+</iptv>
+<iptv>
+	<name>TRENTINO TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://77.72.196.214:8554/live/mp4:TrentinoTV</uri>
+</iptv>
+<iptv>
+	<name>UMBRIA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fl1.mediastreaming.it/umbriatv/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>VIDEOLINA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://178.33.229.111/live/Videolina live=true</uri>
+</iptv>
+<iptv>
+	<name>CZWORKA HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream85.polskieradio.pl/video/czworka.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>ESKA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://46.105.112.212:1935/live/mpegts.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>KOSMICA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streamserver.smartcast.de/kosmicaber/kosmicaber.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>POLO TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream1.polotv.com.pl/polotv/stream1 live=true</uri>
+</iptv>
+
+<iptv>
+	<name>AT 5</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://82.94.228.213:1935/broadcast/_definst_/stream1</uri>
+</iptv>
+<iptv>
+	<name>OMROEP FLEVOLAND</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://edge03.streamgate.nl/live/omroepflevoland/mp4:livestream1.mp4 live=true</uri>
+</iptv>
+<iptv>
+	<name>OMROEP ZEELAND</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>RTV DRENTHE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.rtvdrenthe.nl/tv/tvstream1 live=true</uri>
+</iptv>
+<iptv>
+	<name>RTV UTRECHT</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://silverflash.rtvutrecht.nl:1935/live/rtvutrecht_hi.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>RTV WEST</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://edge01.bbvms.com/live/omroepwest_tv_high live=true</uri>
+</iptv>
+<iptv>
+	<name>USTAD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://silverflash.rtvutrecht.nl:1935/live/ustad.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>TV BRATISLAVA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://212.89.230.30:1935/live/bratislava.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>TV PEZINOK BRATISLAVA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s1.media-planet.sk/live/pezinok</uri>
+</iptv>
+<iptv>
+	<name>DOLNY KUBIN</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s1.media-planet.sk/live/dolnykubin</uri>
+</iptv>
+<iptv>
+	<name>NOVE ZAMKY TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s1.media-planet.sk/live/novezamky</uri>
+</iptv>
+<iptv>
+	<name>NRSR</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://80.94.54.13/liverepeater/nrsr1 live=true</uri>
+</iptv>
+<iptv>
+	<name>TV REDUTA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s1.media-planet.sk/live/reduta</uri>
+</iptv>
+<iptv>
+	<name>TURZOVKA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s1.media-planet.sk/live/turzovka</uri>
+</iptv>
+<iptv>
+	<name>NISKA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://92.60.231.48:1935/live/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>ONE DANCE HD</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://93.114.43.3:1935/live/dancehd</uri>
+</iptv>
+<iptv>
+	<name>CREDO TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://38.115.166.99/livecredo/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>ALFA OMEGA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>BANAT TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://81.18.66.155/live/banat-tv live=true</uri>
+</iptv>
+<iptv>
+	<name>BARICADA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://86.106.82.47/baricadatv_live/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>EST TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://89.43.159.2/live/esttv live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE M</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://telem.telem.ro:8780/telem_live.flv</uri>
+</iptv>
+<iptv>
+	<name>TV BACAU</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://82.77.2.65:8780/live.flv</uri>
+</iptv>
+<iptv>
+	<name>ZEE CINEMA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.ukcast.tv/broadcast playpath=zee_cinema98.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=zee_cinema98&amp;vw=600&amp;vh=430 live=true</uri>
+</iptv>
+<iptv>
+	<name>BURMA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://media4.lsops.net/live/ playpath=dvb_bu.sdp swfUrl=http://beta.cdn.livestation.com/player/5.10/livestation-player.swf pageUrl=http://www.livestation.com/en/dvb live=true</uri>
+</iptv>
+<iptv>
+	<name>RAJ NEWS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://122.248.242.70:1935/zengalive/ playpath=zenga2junemonitorraj_news_malyalamweb.sdp swfUrl=http://beta.cdn.livestation.com/player/5.10/livestation-player.swf pageUrl=http://www.livestation.com/en/rajnewsmalyalam live=true</uri>
+</iptv>
+<iptv>
+	<name>TAAZA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://122.248.242.70:1935/zengalive/ playpath=zenga2junemonitortaazaweb.sdp swfUrl=http://beta.cdn.livestation.com/player/5.10/livestation-player.swf pageUrl=http://www.livestation.com/en/taazatv live=true</uri>
+</iptv>
+<iptv>
+	<name>9X JHAKAAS TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cdn.m.yupptv.tv/liveorigin/etvuk1 live=true</uri>
+</iptv>
+<iptv>
+	<name>ETV 2</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/etv21</uri>
+</iptv>
+<iptv>
+	<name>HMTV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/hmtv1</uri>
+</iptv>
+<iptv>
+	<name>MAA MUSIC</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cdn.m.yupptv.tv:1935/liveorigin/maamusic1 live=true</uri>
+</iptv>
+<iptv>
+	<name>MAA MUSIC (Link 2)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cdn.m.yupptv.tv/liveorigin/maamusic1 live=true</uri>
+</iptv>
+<iptv>
+	<name>NDTV</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://ndtv.indostan.epac.to/ndtv/247lo/live/native</uri>
+</iptv>
+<iptv>
+	<name>NDTV 24x7</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://bglive-a.bitgravity.com/ndtv/247lo/live/native</uri>
+</iptv>
+<iptv>
+	<name>NTV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/ntv1</uri>
+</iptv>
+<iptv>
+	<name>RAKSHANA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/rakshana9001</uri>
+</iptv>
+<iptv>
+	<name>RK News</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/rknews1</uri>
+</iptv>
+<iptv>
+	<name>SVBC</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/svbc1</uri>
+</iptv>
+<iptv>
+	<name>T NEWS</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/channel49001</uri>
+</iptv>
+<iptv>
+	<name>YUPP TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/vanitha9001</uri>
+</iptv>
+<iptv>
+	<name>WE</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/we1</uri>
+</iptv>
+<iptv>
+	<name>OCKO TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://194.79.52.79/ockoi/ockoHQ2 live=true</uri>
+</iptv>
+<iptv>
+	<name>ELEKTRIKA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://rtmp.elektrika.cz/live/myStream.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>4E TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://82.192.84.30:1935/live/myStream.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>EXTRA 3</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp115021.live.edgefcs.net:1935/live/extragtnet@49573 live=true</uri>
+</iptv>
+
+<iptv>
+	<name>EGER TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://87.229.24.114:8010/live/live live=true</uri>
+</iptv>
+<iptv>
+	<name>FLP TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wowza.tststudio.com/live/stream11 live=true</uri>
+</iptv>
+<iptv>
+	<name>KANIS SAT TV</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://stream.kanizsatv.hu:48080/kanizsatv.flv</uri>
+</iptv>
+<iptv>
+	<name>LIGHT CHANNEL TV1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streamer1.streamhost.org/salive/hungarian live=true</uri>
+</iptv>
+<iptv>
+	<name>IMAM TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://ca.live.imamhussein.tv:1935/live2/iht03 live=true</uri>
+</iptv>
+<iptv>
+	<name>IMAM TV 2</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203</uri>
+</iptv>
+<iptv>
+	<name>TV GUINEA ECUATORIAL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://82.98.138.14/live/rtvgeint live=true</uri>
+</iptv>
+<iptv>
+	<name>GUATEVISION TV HQ</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://bravo967.sysvirtuales.com/live/stream1.sdp</uri>
+</iptv>
+<iptv>
+	<name>GUATEVISION TV LQ</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://bravo967.sysvirtuales.com/live/stream2.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>DOKU TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s3yfl.castup.net:1935/993850051-123.flv/_definst_/_definst_</uri>
+</iptv>
+<iptv>
+	<name>CHANNEL 2</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://sv8fl.castup.net:1935/996180004-123.flv/_definst_ live=true</uri>
+</iptv>
+<iptv>
+	<name>KPLUS TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://KPlus.fms.visionip.tv/live/KPlus-SDq live=true</uri>
+</iptv>
+<iptv>
+	<name>JBS HD</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://lm01.everyon.tv/ptv/phd231</uri>
+</iptv>
+<iptv>
+	<name>LADY TV</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://223.27.170.210/channels/1111/800.flv</uri>
+</iptv>
+<iptv>
+	<name>TOMATO TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://etomatofms2.hscdn.com/etomato.dvr/mp4:etomato live=true</uri>
+</iptv>
+<iptv>
+	<name>LRT TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://lrt-live.data.lt:1935/LTV1/LTV1</uri>
+</iptv>
+<iptv>
+	<name>LRT KULTURA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://lrt-live.data.lt:1935/LTV2/ltv2</uri>
+</iptv>
+<iptv>
+	<name>LRT LITUANICA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://lrt-live.data.lt:1935/World/world</uri>
+</iptv>
+<iptv>
+	<name>RE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live0.tiesraides.lv/live/vtv_2 live=true</uri>
+</iptv>
+<iptv>
+	<name>TV 2 FYN</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://80.63.11.91:1935/live/_definst_/tv2fyn_1000</uri>
+</iptv>
+<iptv>
+	<name>TV 2 LORRY</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://80.63.11.91:1935/live/_definst_/tv2lorry_1000</uri>
+</iptv>
+<iptv>
+	<name>TV 2 NORD</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://80.63.11.91:1935/live/_definst_/tv2nord-plus_1000</uri>
+</iptv>
+<iptv>
+	<name>TV 7</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streamer-1.tv7.fi/live/tv7 live=true</uri>
+</iptv>
+<iptv>
+	<name>TV SYD</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://80.63.11.91:1935/live/_definst_/tvsyd_1000</uri>
+</iptv>
+<iptv>
+	<name>LIFESTYLE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream1.lifestyletv.se/live/livestream2 live=true</uri>
+</iptv>
+<iptv>
+	<name>ALFA TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://streamer1.streamhost.org:1935/salive/GMIalfah</uri>
+</iptv>
+<iptv>
+	<name>CANAL DIOCESANO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://flash3.todostreaming.es/edesco/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>CANAL VASCO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp70268.live.edgefcs.net/live/eitb-CanalVasco@5519 live=true</uri>
+</iptv>
+<iptv>
+	<name>CLUB DIRECTO TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://87.106.183.39/live/myStream_2 live=true</uri>
+</iptv>
+<iptv>
+	<name>ETB Sat</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp70268.live.edgefcs.net/live/eitb-ETBSat@5219 live=true</uri>
+</iptv>
+<iptv>
+	<name>HUESCA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streaming2.radiohuesca.com/live/huescatv live=true</uri>
+</iptv>
+<iptv>
+	<name>INTER TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://media.intereconomia.com/live/business2 live=true</uri>
+</iptv>
+<iptv>
+	<name>LA1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://media.intereconomia.com/live/intereconomiatv1 live=true</uri>
+</iptv>
+<iptv>
+	<name>DNDAMEX TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.visualnetworks.es:1935/str063/live live=true</uri>
+</iptv>
+<iptv>
+	<name>RTV CEUTA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://flash3.todostreaming.es/rtvceuta/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>TELEMADRID</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp118140.live.edgefcs.net/live/TSAtelemadridsat@47720 live=true</uri>
+</iptv>
+<iptv>
+	<name>TV HUELVA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://flash3.todostreaming.es/huelvatv/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>TV VIDA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://flash3.todostreaming.es/radiovida/mobile</uri>
+</iptv>
+<iptv>
+	<name>VIT CH 1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://87.106.244.74/live/myStream_2 live=true</uri>
+</iptv>
+<iptv>
+	<name>VIT CH 2</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://87.106.219.140/live/myStream_2 live=true</uri>
+</iptv>
+<iptv>
+	<name>VIT CH 4</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://87.106.220.67/live/myStream_2 live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE MIAMI</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://movipbox.streamguys.net/telemiamitv/telemiamitv.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>HISPAN TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh live=true</uri>
+</iptv>
+<iptv>
+	<name>VISJON NORGE</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fl0.c06359.cdn.qbrick.com:1935/06359/visjon live=true</uri>
+</iptv>
+<iptv>
+	<name>ORA NEWS TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://209.212.145.164/live/livestream1 live=true</uri>
+</iptv>
+<iptv>
+	<name>VIZION TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://slive.vizionplus.tv:1935/live/livestream2 live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE BASEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://xapp510394c1000199.f.l.f.lb.core-cdn.net:1935/1000199copo playpath=live/app510394368/w509050881/live_de_500 swfUrl=http://c31001-o.l.core.cdn.streamfarm.net/31001tv1kunde/web/flash/31016telebasel/liveFlvPlayer.swf pageUrl=http://www.telebas live=true</uri>
+</iptv>
+<iptv>
+	<name>W24 AUSTRIA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://atwse.lbs.atusmedia.cc/w24live/w24-high.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>RTL TELE LETZEBOURG</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wowza01.newmedia.lu/channel1/live live=true</uri>
+</iptv>
+<iptv>
+	<name>KARLSKRONA KANALEN</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://80.78.208.198/live/flv:live.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>SFERA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://194.44.173.130/live/SFERA live=true</uri>
+</iptv>
+<iptv>
+	<name>POGODA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.80.184.51/PogodaTV/livestream1 live=true</uri>
+</iptv>
+<iptv>
+	<name>Jewish News One TV (Russian)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://jn1livefs.fplive.net/jn1live-live/stream001RUS live=true</uri>
+</iptv>
+<iptv>
+	<name>Jewish News One TV (Ukrainian)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://jn1livefs.fplive.net/jn1live-live/stream001UKR live=true</uri>
+</iptv>
+<iptv>
+	<name>3 ANGELS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://h264.tv.3angels.ru/live playpath=3angels-1 swfUrl=http://www.3angels.ru/sites/all/modules/aajax/js/JWPlayer/player.swf pageUrl=http://www.3angels.ru/aajax/playflash/460/345 live=true</uri>
+</iptv>
+<iptv>
+	<name>TELE B?RN</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://rtmp.infomaniak.ch/livecast/barntele</uri>
+</iptv>
+<iptv>
+	<name>RU1</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://video.tvigle.ru/6/resource/rf/prg/5/d/5df0f75a4da3f08769553a31a2c93ddb/video/5f9e7c00936cae6bfbd25ca910deded9/main.flv</uri>
+</iptv>
+<iptv>
+	<name>RU2</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://video.tvigle.ru/6/resource/rf/prg/5/d/5df0f75a4da3f08769553a31a2c93ddb/video/b8011db815986fb6beabfdaad3cde99c/main.flv</uri>
+</iptv>
+<iptv>
+	<name>TALLINA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://213.35.156.83/streamer/tlntv live=true</uri>
+</iptv>
+<iptv>
+	<name>T16</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://mek2.mekstream.com:1935/noticias16/live3</uri>
+</iptv>
+<iptv>
+	<name>24 HOURAS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://ec2-174-129-179-185.compute-1.amazonaws.com/live/ipbtv400.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>AO VIVO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://nsp0813vimna35.nethorizontes.com.br/nsp0813vimna35/viamorena live=true</uri>
+</iptv>
+<iptv>
+	<name>CANAL DO BOI TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://srvvenus.canaldoboi.com/livecb/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>CHEF TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://flashd.localmidia.com.br/cheftv/aovivo live=true</uri>
+</iptv>
+<iptv>
+	<name>CONEXAOBR TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://srvvenus.canaldoboi.com/livecx/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>JUST TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://67.228.177.151/live/myStream.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>MTV BRAZIL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://ev.mm.uol.com.br/liverepeater/mtvcast_flash.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>PREVE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://flashserverbr.com/tvpreve/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>RL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://208.53.158.175:1935/rl/sollutech.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>TELESANTANDER TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wow.eleden.com:1935/livesantander/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>VENEZUELA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://edg.ord.movipbox2.streamguys.net/vtvdsl/vtvdsl.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>TCHAD TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://217.114.200.24/tchad//tchad live=true</uri>
+</iptv>
+<iptv>
+	<name>TAMADON TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://tamadonmob.nanocdn.com:1935/live/tamadon256</uri>
+</iptv>
+<iptv>
+	<name>TV MANA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streamspub.manasat.com/tvar/tvmanaar1 live=true</uri>
+</iptv>
+<iptv>
+	<name>LIDER TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://94.20.30.120/livepkgr/livestream3 live=true</uri>
+</iptv>
+<iptv>
+	<name>NEWS TIME</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/newstimebengal9001</uri>
+</iptv>
+<iptv>
+	<name>TV 3</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://203.176.130.114:5656/live///tv3_100k.stream</uri>
+</iptv>
+<iptv>
+	<name>NHK</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://ny-1.srv.fivecool.net/nhkw playpath=gwm swfUrl=http://www3.nhk.or.jp/nhkworld/w/movie/streamhub_player20110926.swf pageUrl=http://www3.nhk.or.jp/nhkworld/w/movie/ live=true</uri>
+</iptv>
+<iptv>
+	<name>NHK World HD</name>
+	<icon>default.png</icon>
+	<type>rtmp%3A//ca-1.net.fivecool.org/nhkw/gwm:4097:512</type>
+	<uri>rtmp%3A//ca-1.net.fivecool.org/nhkw/gwm</uri>
+</iptv>
+<iptv>
+	<name>BLAS SPORT</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://218.202.219.67/channels/xjyx/JinBaoTiYu-Suma/flv:300k_flv</uri>
+</iptv>
+<iptv>
+	<name>GUANGDONG SPORTS</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://livehttp.wasu.cn:18080/guangdongsports.flv</uri>
+</iptv>
+<iptv>
+	<name>CH 1</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://223.27.170.210/channels/39/800.flv/live/400.flv/live</uri>
+</iptv>
+<iptv>
+	<name>HKS</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.hkstv.hk.lxdns.com/live/hks live=true</uri>
+</iptv>
+<iptv>
+	<name>PRO TV CHISINAU</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://93.116.255.10/live/512_direct live=true</uri>
+</iptv>
+<iptv>
+	<name>TRM MOLDOVA</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://212.0.211.109/live/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>EXODUS TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://93.103.130.122/live/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>MOJ TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://93.103.132.238/live/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>KURIOS1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://77.91.204.129/kurios/kurios1 live=true</uri>
+</iptv>
+<iptv>
+	<name>KURIOS2</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://77.91.204.129/kurios/kurios2 live=true</uri>
+</iptv>
+<iptv>
+	<name>KURIOS3</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://77.91.204.129/kurios/kurios3 live=true</uri>
+</iptv>
+<iptv>
+	<name>SOL TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://willax.mediastream.pe/vv_willax/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>SEPIDEH CHANNEL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://sepidehlive.nanocdn.com/live/sepideh256 live=true</uri>
+</iptv>
+<iptv>
+	<name>PAYAM TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://payammob.nanocdn.com:1935/live/payam256</uri>
+</iptv>
+<iptv>
+	<name>KURDISTAN TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://91.192.10.195/live/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>CHANNEL [V] REYOKH</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.netdesignhost.com/channelvthailandlive/channelvthailandlive live=true</uri>
+</iptv>
+<iptv>
+	<name>GRANDPRIX TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://27.131.141.254/grandprix/live live=true</uri>
+</iptv>
+<iptv>
+	<name>POP TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://live.poptv.co.th/thaichaiyotv/live live=true</uri>
+</iptv>
+<iptv>
+	<name>SABAIDEE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://202.142.207.150/live/livesabaidee1 live=true</uri>
+</iptv>
+<iptv>
+	<name>TV 8</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://202.142.207.150/live/liveinfinity1 live=true</uri>
+</iptv>
+<iptv>
+	<name>VOICE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.voicetv.co.th/live/stream live=true</uri>
+</iptv>
+<iptv>
+	<name>YAAK TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://202.142.207.150/live/liveyaaktv1 live=true</uri>
+</iptv>
+<iptv>
+	<name>VTV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://edg.ord.movipbox2.streamguys.net/vtvdsl/vtvdsl.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>TVES TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://movipbox.streamguys.net:1935/tves/tves.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>1HTV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://119.110.96.71/live/1htv live=true</uri>
+</iptv>
+<iptv>
+	<name>MOB TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://119.110.96.71/live/mobtv-playout live=true</uri>
+</iptv>
+<iptv>
+	<name>MUSIK AKTIF TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://BKJ-STR-1.se.rtm-fms.cdn.jaring.my:1935/livepkgr/rtmmuzik2 live=true</uri>
+</iptv>
+<iptv>
+	<name>TV 2</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://BYB-STR-1.se.rtm-fms.cdn.jaring.my:1935/livepkgr/rtm22 live=true</uri>
+</iptv>
+<iptv>
+	<name>TVI TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://BYB-STR-1.se.rtm-fms.cdn.jaring.my:1935/livepkgr/rtmi2 live=true</uri>
+</iptv>
+<iptv>
+	<name>PROMO VISION</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://promovision.mx:6500/live/tvlive live=true</uri>
+</iptv>
+<iptv>
+	<name>TV ACAPULCO</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video.hosteris.com/tvacapulco/tvacapulco live=true</uri>
+</iptv>
+<iptv>
+	<name>VIBRA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://66.240.202.13:1935/live/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>RLC 1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel1 live=true</uri>
+</iptv>
+<iptv>
+	<name>RLC 2</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel2 live=true</uri>
+</iptv>
+<iptv>
+	<name>RLC 3</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel3 live=true</uri>
+</iptv>
+<iptv>
+	<name>RLC 4</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel4 live=true</uri>
+</iptv>
+<iptv>
+	<name>Storm Babes TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://www.stormbabes.tv:1935/stormApp/storm live=true</uri>
+</iptv>
+
+<iptv>
+	<name>Studio 66 TV 4</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel4</uri>
+</iptv>
+<iptv>
+	<name>Play.me TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cp107974.live.edgefcs.net/live/beep-flash-live@34654 live=true</uri>
+</iptv>
+<iptv>
+	<name>Quartarete Blue</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://194.116.73.234/quartaretetv2/quartaretebluweb live=true</uri>
+</iptv>
+<iptv>
+	<name>Mount St. Alphonsus Church</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://89.185.148.180/CSTV playpath=Alphonsus swfUrl=http://www.churchservices.tv/flash/CsPlayer.swf pageUrl=http://www.churchservices.tv/alphonsus live=1</uri>
+</iptv>
+<iptv>
+	<name>Mallorca Cam</name>
+	<icon>default.png</icon>
+	<type>rtsp%3A//streaming2.webcam.nl%3A1935/mallorca/mallorca.stream:4097:512</type>
+	<uri>rtsp%3A//streaming2.webcam.nl%3A1935/mallorca/mallorca.stream</uri>
+</iptv>
+<iptv>
+	<name>Thassos Beach Greece HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3792.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Amsterdam Netherlands HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/4098.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Hamburg Germany HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3847fairmont.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+
+<iptv>
+	<name>London Abbey Road UK HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/AbbeyRoadHD1.flv.flv pageUrl=http://earthcam.com swfUrl=http://earthcam.com/swf/cam_player_v2/abbeyroad_player.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Moscow HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/moscowHD1.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>New York Times Square United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/4017timessquare.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Brooklyn Bridge New York City United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3983.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>St. Louis United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/stlouis.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Miami Beach FL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/miamivishd1.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Miami Marina FL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/miamivishd3.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Miami News Cafe FL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3644newscafe.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Downtown Miami FL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/miamivishd5.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Miami Biscayne Bay FL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/miamivishd4.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Palm Beach FL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/breakerhd.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Los Angeles CA United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/lacitytours1.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Panama City United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/pinewill.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Chicago IL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/wrigleyfieldcamHD.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Mission Beach CA United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3478.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Anna Maria Island FL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/4048spaceage.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Austin TX United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/paradiseon6.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Kiawah Island SC United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/kigrschd1.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>St. Louis Bridge MO United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3724trailnet2.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Hot Springs AR United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3819lakehamilton.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Sanibel Island Beach FL United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/interactoneHDCam1.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Las Vegas NV United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/eclasvegas.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Fort Myers Beach The Palms United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/diamondhead.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Lauderdale-By-The-Sea FL United States HD 1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/windjammerHD.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Lauderdale-By-The-Sea FL United States HD 2</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3864.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Niagara Falls (US-CAN) HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fms.tikilive.com/view/25548_007/stream25548 swfUrl=http://www.tikilive.com/NiagaraFallsPlayer/player.swf?nc=20100322 pageUrl=http://www.cliftonhill.com/explore/media-gallery/niagara-falls-cam live=true</uri>
+</iptv>
+<iptv>
+	<name>Myrtle Beach United States HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/3635.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Oceanside Surf Cam HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://oceanside.live.camzonecdn.com:1935/CamzoneStreams/oceanside.flv pageUrl=http://www.camzone.com swfUrl=http://oceanside.player.camzonecdn.com/v1.0/CamzoneStreamPlayer.cz?channel=oceanside&amp;rtmpenable=yes&amp;rtmptenable=yes&amp;maintainaspect=yes&amp;all live=true</uri>
+</iptv>
+<iptv>
+	<name>Kona Kai Resort HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://konakai03.live.camzonecdn.com:1935/CamzoneStreams/konakai03.flv pageUrl=http://www.camzone.com swfUrl=http://konakai03.player.camzonecdn.com/v1.0/CamzoneStreamPlayer.cz?channel=konakai03&amp;rtmpenable=yes&amp;rtmptenable=yes&amp;maintainaspect=yes&amp;all live=true</uri>
+</iptv>
+<iptv>
+	<name>Tokyo Japan HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/tokyo1.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Meads Bay Anguilla HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/anguilla.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Sao Paulo Terraco Brazil HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://video2.earthcam.com/fecnetwork/terraco.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1</uri>
+</iptv>
+<iptv>
+	<name>Pacific Park HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://pparkhd.live.camzonecdn.com:1935/CamzoneStreams/pparkhd.flv pageUrl=http://www.pacpark.com swfUrl=http://pparkhd.player.camzonecdn.com/v1.0/CamzoneStreamPlayer.cz?channel=pparkhd&amp;pausebutton=yes&amp;mutebutton=yes&amp;muted=no&amp;toolbar=always&amp;backgr live=true</uri>
+</iptv>
+<iptv>
+	<name>Petra Live Cam (Khazneh)</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://petra.kitvox.net:1935/live1/cam2.stream</uri>
+</iptv>
+<iptv>
+	<name>Petra Live Cam (Petra Mountains)</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://petra.kitvox.net:1935/live1/cam1.stream</uri>
+</iptv>
+<iptv>
+	<name>Streetclip TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://stream.streetclip.tv:1935/live/high-stream live=true</uri>
+</iptv>
+<iptv>
+	<name>Okto HQ</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://wss10.atusmedia.net/oktolive/okto-high.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>NICK.JR</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://50.7.168.106/live playpath=nickjr  swfUrl=http://www.tv-msn.com/player/player.swf  pageUrl=http://tv-msn.com/nickjr.htm live=1</uri>
+</iptv>
+<iptv>
+	<name>ALEX TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://217.115.145.185:1935/live/mp4:alexlivestream_2</uri>
+</iptv>
+<iptv>
+	<name>Center TV Bremen</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://213.168.206.36:1935/live/live.sdp live=true</uri>
+</iptv>
+<iptv>
+	<name>RAN1</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://62.113.210.250/medienasa-live/mp4:ran1_high live=true</uri>
+</iptv>
+<iptv>
+	<name>Schweizer Sportfernsehen</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://ipmedia.mpl.miisolutions.net/ipmedia-live01/mp4:ssflive live=true</uri>
+</iptv>
+<iptv>
+	<name>Beach TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://media2.tripsmarter.com/LiveTV/BTV/</uri>
+</iptv>
+<iptv>
+	<name>Oberpfalz TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv swfUrl=http://www.otv.de/wp-content/plugins/cmms/assets/flash/player.swf pageUrl=http://www.otv.de/mediathek/video/livestream playpath=oberpfalztv.stream_1 live=1</uri>
+</iptv>
+<iptv>
+	<name>Radio Haifa 107.5 FM</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://91.121.171.171/live/mp4:1075fm.mp4 live=true</uri>
+</iptv>
+<iptv>
+	<name>TeleBarn</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://rtmp.infomaniak.ch/livecast/barntele</uri>
+</iptv>
+<iptv>
+	<name>NATIONAL</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://5.63.151.44/live playpath=trhtgfjhgjhg?id=147478 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/trhtgfjhgjhg/1/600/380 live=true</uri>
+</iptv>
+<iptv>
+	<name>OTV LEBANON</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://livestreaming4.itworkscdn.com/otv playpath=otvlive_360p swfUrl=http://www.otv.com.lb/otvent/jwplayer.flash.swf pageUrl=http://www.otv.com.lb/otvent/index.html</uri>
+</iptv>
+<iptv>
+	<name>MBC</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://75.126.203.130/live/EFEDFzdda?id=151611 live=true</uri>
+</iptv>
+<iptv>
+	<name>ALSHARQIYA TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://ns8.indexforce.com/alsharqiyalive/mystream</uri>
+</iptv>
+<iptv>
+	<name>AL YOUM</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://75.126.203.130/live/amradeebtv6?id=149493</uri>
+</iptv>
+<iptv>
+	<name>ASSIRAT TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://assiratlive.nanocdn.com:1935/live/assirat256</uri>
+</iptv>
+<iptv>
+	<name>JIM</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim live=true</uri>
+</iptv>
+<iptv>
+	<name>ARGOS TV HD</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://streammpfs.fplive.net:443/streammp-live/0_kdqj24rt_3@58214 live=true</uri>
+</iptv>
+<iptv>
+	<name>JEWISH NEWS ONE TV (English)</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://jn1livefs.fplive.net/jn1live-live/stream001ENG live=true</uri>
+</iptv>
+<iptv>
+	<name>SUPER TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fms.shared.streamshow.it/supertvweb/supertv live=true</uri>
+</iptv>
+<iptv>
+	<name>BRESCIA INFO</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://fms.shared.streamshow.it/bsinfo24web/bresciainfo24</uri>
+</iptv>
+<iptv>
+	<name>TELE MILANO</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://91.121.222.160:1935/piublu/piublu.sdp</uri>
+</iptv>
+<iptv>
+	<name>VASA TV</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s1.media-planet.sk/live/cadca</uri>
+</iptv>
+<iptv>
+	<name>SOKO TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://212.200.146.156:1935/tvSoko/tvsokoLQ</uri>
+</iptv>
+<iptv>
+	<name>1TV</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://1tv.ambra.ro</uri>
+</iptv>
+<iptv>
+	<name>TVM AMBRA</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://tvm.ambra.ro</uri>
+</iptv>
+<iptv>
+	<name>MDI TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://89.33.78.174:1935/live/livestream live=true</uri>
+</iptv>
+<iptv>
+	<name>STUDIO N</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://cdn.m.yupptv.tv/liveorigin/studion2</uri>
+</iptv>
+<iptv>
+	<name>KONTRA TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://flashcloud.mediacdn.com/live/kontratv live=true</uri>
+</iptv>
+<iptv>
+	<name>SPORT 5</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://s3yfl.castup.net:1935/993850065-123.flv/_definst_/_definst_</uri>
+</iptv>
+<iptv>
+	<name>GOOD TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://lm01.everyon.tv:1935/ptv/phd29</uri>
+</iptv>
+<iptv>
+	<name>FAMILIE TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://lvs.wowza.jay.net:1935/kkrtv-ipad/origin.stream live=true</uri>
+</iptv>
+<iptv>
+	<name>SEVILLA FC TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://fl0.c80137.cdn.qbrick.com/80137/Sevilla live=true</uri>
+</iptv>
+<iptv>
+	<name>TV CANARIA</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://streamrtvc.mad.idec.net/rtvc1/rtvc_1.sdp</uri>
+</iptv>
+<iptv>
+	<name>VIT CH 3</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://87.106.232.7/live/myStream_2 live=true</uri>
+</iptv>
+<iptv>
+	<name>BRODILO TV</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://brodilo.tv:8100</uri>
+</iptv>
+<iptv>
+	<name>IMEDI TV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://powerstream.iphonewebtown.com:1935/imedi/mystream live=true</uri>
+</iptv>
+<iptv>
+	<name>ETV 2</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://193.40.133.138/live/etv2 live=true</uri>
+</iptv>
+<iptv>
+	<name>TCI</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://61.90.153.168:1935/live/myStream live=true</uri>
+</iptv>
+<iptv>
+	<name>MOBTV</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://119.110.96.71/live pageUrl=http://lihattv.com/?ch=my live=true playpath=mobtv-playout</uri>
+</iptv>
+<iptv>
+	<name>3DTV</name>
+	<icon>default.png</icon>
+	<type>http:4097:512</type>
+	<uri>http://89.208.33.168:8200</uri>
+</iptv>
+<iptv>
+	<name>Studio 66 TV 2</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel2</uri>
+</iptv>
+<iptv>
+	<name>TEN SPORT</name>
+	<icon>default.png</icon>
+	<type>rtmp:4097:512</type>
+	<uri>rtmp://cdn.livecaster.tv/broadcast playpath=1155200 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/embed.php?u=TenSportsLive&amp;vw=600&amp;vh=470</uri>
+</iptv>
+<iptv>
+	<name>HBO MOVIES1</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://178.33.229.39/edge playpath=8g7x80ozu6hz2ds swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=695%26height=500%26channel=38366%26autoplay=true live=true</uri>
+</iptv>
+<iptv>
+	<name>HBO MOVIES2</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://142.4.216.176/edge playpath=z28ie9oqoku4qoy swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=695%26height=500%26channel=36674%26autoplay=true live=true</uri>
+</iptv>
+<iptv>
+	<name>HBO MOVIES3</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://37.59.35.215/edge playpath=7rfuhjo3hs7g7tq swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=695%26height=500%26channel=38226%26autoplay=true live=true</uri>
+</iptv>
+<iptv>
+	<name>COMEDY HD movies</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>rtmp://46.105.114.36/edge playpath=a1wn1j3ra1w0cv0 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&amp;height=450&amp;channel=38214&amp;autoplay=true</uri>
+</iptv>
+</stream>

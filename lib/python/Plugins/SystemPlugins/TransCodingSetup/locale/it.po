@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-08 23:13+0100\n"
+"PO-Revision-Date: 2013-02-08 23:17+0100\n"
+"Last-Translator: meo <lupomeo@hotmail.com>\n"
+"Language-Team: Black Hole <vuplus-community.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin.py:14
+msgid "enabled"
+msgstr "abilitato"
+
+#: plugin.py:14
+msgid "disabled"
+msgstr "disabilitato"
+
+#: plugin.py:155
+msgid "Transcoding can be started when there is no corresponding channel recordings."
+msgstr "La funzione Transcoding può essere abilitata quando non c'è una registrazione in corso sul canale corrispondente."
+
+#: plugin.py:156
+msgid ""
+"\n"
+"When transcoding, both PIP and analog video outputs are disabled."
+msgstr ""
+"\n"
+"Quando il transcoding è attivo sono disabilitati sia il PIP che l'uscita video analogica."
+
+#: plugin.py:157
+msgid "Cancel"
+msgstr "Annulla"
+
+#: plugin.py:158
+msgid "Ok"
+msgstr "Ok"
+
+#: plugin.py:159
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: plugin.py:170
+msgid "This plugin is available on SOLO2/DUO2"
+msgstr "Questo plugin è disponibile solo per Solo2 e Duo2"
+
+#: plugin.py:174
+msgid "Transcoding"
+msgstr "Transcoding"
+
+#: plugin.py:175
+msgid "Port"
+msgstr "Porta"
+
+#: plugin.py:190
+#, python-format
+msgid ""
+"Failed, Encoder %s\n"
+"(%s)."
+msgstr ""
+"Encoding di %s\n"
+"(%s) fallito."
+
+#: plugin.py:195
+#, python-format
+msgid ""
+"OK. Encoder %s.\n"
+"%s"
+msgstr ""
+"OK. Encoding di %s.\n"
+"%s OK"
+
+#: plugin.py:197
+#, python-format
+msgid "OK. Encoder %s."
+msgstr "Encoding di %s Ok."
+
+#: plugin.py:224
+msgid "TranscodingSetup"
+msgstr "TranscodingSetup"
+
+#: plugin.py:224
+msgid "Transcoding Setup"
+msgstr "Configurazione Transcoding."
+

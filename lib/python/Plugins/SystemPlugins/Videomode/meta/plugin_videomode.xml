@@ -1,0 +1,16 @@
+<default>
+	<prerequisites>
+		<tag type="Display" />
+		<tag type="System" />
+	</prerequisites>
+	<info>
+		<author>smlee</author>
+		<name>Videomode K</name>
+		<packagename>enigma2-plugin-systemplugins-videomode</packagename>
+		<shortdescription>advanced video mode settings.</shortdescription>
+		<description>With Videomode K plugin, you can set advanced video mode.</description>
+	</info>
+	<files type="package">
+		<file type="package" name="enigma2-plugin-systemplugins-videomode" />
+	</files>
+</default>

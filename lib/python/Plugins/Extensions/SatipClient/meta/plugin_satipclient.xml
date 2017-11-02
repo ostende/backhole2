@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="Multimedia" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>sat>ip client</name>
+                    <packagename>enigma2-plugin-extensions-satipclient</packagename>
+                    <shortdescription>SAT>IP CLIENT</shortdescription>
+                    <description>SAT>IP client attached to vtuner</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-extensions-satipclient" />
+	</files>
+</default>

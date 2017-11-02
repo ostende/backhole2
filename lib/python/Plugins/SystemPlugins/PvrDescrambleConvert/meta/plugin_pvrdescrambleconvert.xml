@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang(hschang@dev3)</author>
+                    <name>PVR Descramble Convert</name>
+                    <packagename>enigma2-plugin-systemplugins-pvrdescrambleconvert</packagename>
+                    <shortdescription>PVR descramble in standby.</shortdescription>
+                    <description>PVR descramble in standby.</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-pvrdescrambleconvert" />
+	</files>
+</default>

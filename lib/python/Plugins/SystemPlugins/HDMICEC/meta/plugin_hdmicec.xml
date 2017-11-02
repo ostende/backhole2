@@ -1,0 +1,15 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author></author>
+                    <name>HdmiCecSetup</name>
+                    <packagename>enigma2-plugin-systemplugins-hdmicec</packagename>
+                    <shortdescription>Support HDMI CEC</shortdescription>
+                    <description>Support HDMI CEC</description>
+          </info>
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-hdmicec" />
+	</files>
+</default>

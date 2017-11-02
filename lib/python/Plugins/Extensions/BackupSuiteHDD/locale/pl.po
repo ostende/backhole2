@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pedro_Newbie <backupsuite@outlook.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteHDD/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteHDD/backup.sh' pl_PL"
+
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteUSB/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteUSB/backup.sh' pl_PL"
+
+msgid "not found, the backup process will be aborted"
+msgstr "nie znaleziono, tworzenie backupu zostanie przerwane"
+
+msgid "-> no space left on back-up device"
+msgstr "-> brak miejsca na backup"
+
+msgid "-> no writing permission on back-up device"
+msgstr "-> brak uprawnień do zapisu"
+
+msgid "Almost there... Now building the USB-Image!"
+msgstr "Prawie gotowe... Teraz tworzone jest usb-image!"
+
+msgid "and there is made an extra copy in: "
+msgstr "i dodatkowa kopia utworzona na: "
+
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr "Backup zakończony i skopiowany na pendrive USB."
+
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr "NARZĘDZIE DO TWORZENIA KOMPLETNEGO BACKUPU"
+
+msgid "backupstick or"
+msgstr ""
+"backupstick \n"
+"lub"
+
+msgid "backupstick.txt"
+msgstr "backupstick.txt"
+
+msgid "Additional backup -> "
+msgstr "Dodatkowe backup -> "
+
+msgid "Create: kerneldump"
+msgstr "Tworzenie: kerneldump"
+
+msgid "Create: root.ubifs"
+msgstr "Tworzenie: root.ubifs"
+
+msgid "Follow the instructions on the front-display."
+msgstr "Postępuj zgodnie z instrukcjami na wyświetlaczu"
+
+msgid "available "
+msgstr "dostępny "
+
+msgid "Full 1:1 back-up direct on USB"
+msgstr "Pełny 1:1 backup image bezpośrednio na USB"
+
+msgid "Full 1:1 back-up in USB format"
+msgstr "Pełny 1:1 backup image w formacie USB"
+
+msgid "Full back-up direct to USB"
+msgstr "Pełny backup image bezpośrednio na USB"
+
+msgid "Full back-up on HDD"
+msgstr "Backup image na HDD"
+
+msgid "Full back-up to the harddisk"
+msgstr "Pełny backup image na dysku"
+
+msgid "Full back-up on HDD/USB"
+msgstr "Backup image na HDD/USB"
+
+msgid "Full back-up to USB"
+msgstr "Backup image na USB"
+
+msgid "If you place an USB-stick containing this file then the back-up will be automatically made onto the USB-stick and can be used to restore the current image if necessary."
+msgstr "Jeśli umieścisz pendrive USB zawierający ten plik, backup zostanie automatycznie zapisany na pendrive i może być użyty w razie konieczności do przywrócenia aktualnego image."
+
+msgid "Image creation FAILED!"
+msgstr "Tworzenie image NIE POWIODŁO SIĘ!"
+
+msgid "No supported receiver found!"
+msgstr "Odbiornik nie wspierany przez plugin!"
+
+msgid "Old version bootloader found."
+msgstr "Stara wersja bootloadera!"
+
+msgid "Place the USB-flash drive in the (front) USB-port and switch the receiver off and on with the powerswitch on the back of the receiver."
+msgstr "Umieść pen USB w przednim gnieździe i zrestartuj odbiornik wyłącznikiem zasilania (z tyłu odbiornika)."
+
+msgid "Please be patient, a backup will now be made, because of the used filesystem the back-up will take about 5-7 minutes for this system."
+msgstr "Czekaj... Trwa tworzenie backupu, może to zająć ok. 5-7 minut, w zależności od używanego filesystemu."
+
+msgid "Please check te manual of the receiver on how to restore the image."
+msgstr "Sprawdź jak przywrócić image w instrukcji odbiornika."
+
+msgid "PLEASE READ THIS:"
+msgstr "PRZECZYTAJ:"
+
+msgid "Please wait.... almost ready!"
+msgstr "Czekaj... prawie gotowe!"
+
+msgid "Press arrow up from frontpanel to start loading."
+msgstr "Wciśnij strzałkę 'w górę' na panelu przednim aby rozpocząć wgrywanie."
+
+msgid "Probable causes could be:"
+msgstr "Prawdopodobne przyczyny:"
+
+msgid "The program will exit now."
+msgstr "Program zostanie teraz zamknięty."
+
+msgid "The content of the folder is:"
+msgstr "Zawartość folderu jest:"
+
+msgid "There is a valid USB-flashdrive detected in one of the USB-ports, therefore an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr "Wykryto prawidłowy pendrive USB w jednym z gniazd, w związku z tym, dodatkowa kopia backupu będzie zapisana na tym nośniku."
+
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr "NIE znaleziono prawidłowego pendrive USB, nie można wykonać backupu."
+
+msgid "This only takes about 20 seconds....."
+msgstr "To zajmie tylko 20 sekund..."
+
+msgid "Time required for this process: "
+msgstr "Czas potrzebny na ten proces: "
+
+msgid "To back-up directly to the USB-stick, the USB-stick MUST contain a file with the name:"
+msgstr "Aby stworzyć backup bezpośrednio na USB, pendrive MUSI zawierać plik o nazwie:"
+
+msgid "To restore the image:"
+msgstr "Aby przywrócić image:"
+
+msgid "USB Image created in: "
+msgstr "Image USB utworzone na: "
+
+msgid "Version"
+msgstr "Wersja"
+
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+"Czy chcesz stworzyć backup image (w formacie usb) na HDD? \n"
+"\n"
+"To zajmie tylko kilka minut i jest w pełni automatyczne.\n"
+
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+"Czy chcesz stworzyć backup na USB?\n"
+"\n"
+"To zajmie tylko kilka minut, w zależności od używanego filesystemu i jest w pełni automatyczne.\n"
+"\n"
+"Upewnij się, że podłączyłeś pendrive USB zanim wybierzesz TAK."
+
+msgid "minutes"
+msgstr "minuty"
+

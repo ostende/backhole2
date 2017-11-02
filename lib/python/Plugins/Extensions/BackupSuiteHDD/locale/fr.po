@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pedro_Newbie <backupsuite@outlook.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteHDD/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteHDD/backup.sh' fr_FR"
+
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteUSB/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuiteUSB/backup.sh' fr_FR"
+
+msgid "not found, the backup process will be aborted!"
+msgstr "pas trouvé, le processus de sauvegarde sera annule!"
+
+msgid "-> no space left on back-up device"
+msgstr "-> Peu d'espace sur le périphérique de sauvegarde"
+
+msgid "-> no writing permission on back-up device"
+msgstr "-> Pas d'accès en écriture aux périphériques de sauvegarde"
+
+msgid "Almost there... Now building the USB-Image!"
+msgstr "Presque fini... Création de l'image sur la clé USB!"
+
+msgid "and there is made an extra copy in: "
+msgstr "et il y est fait une copie supplémentaire: "
+
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr "Sauvegarde terminée et copie sur votre clé USB."
+
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr "BACK-UP TOOL, POUR FAIRE UNE SAUVEGARDE COMPLETE"
+
+msgid "backupstick or"
+msgstr "backupstick ou"
+
+msgid "backupstick.txt"
+msgstr "backupstick.txt"
+
+msgid "Additional backup -> "
+msgstr "Sauvegarde supplémentaires -> "
+
+msgid "Create: kerneldump"
+msgstr "Creation: Kerneldump"
+
+msgid "Create: root.ubifs"
+msgstr "Creation: root.ubifs"
+
+msgid "Follow the instructions on the front-display."
+msgstr "Suivez les instructions sur l'afficheur."
+
+msgid "available "
+msgstr "disponible "
+
+msgid "Full 1:1 back-up direct on USB"
+msgstr "Full 1:1 Sauvegarde directement au port USB"
+
+msgid "Full 1:1 back-up in USB format"
+msgstr "Full 1:1 Sauvegarde au format USB"
+
+msgid "Full back-up direct to USB"
+msgstr "Sauvegarde complète vers l'USB"
+
+msgid "Full back-up on HDD"
+msgstr "Sauvegarde complète sur le HDD"
+
+msgid "Full back-up to the harddisk"
+msgstr "Sauvegarde complète sur le disque dur"
+
+msgid "Full back-up on HDD/USB"
+msgstr "Sauvegarde complète sur HDD/USB"
+
+msgid "Full back-up to USB"
+msgstr "Sauvegarde complète sur l'USB"
+
+msgid "If you place an USB-stick containing this file then the back-up will be automatically made onto the USB-stick and can be used to restore the current image if necessary."
+msgstr "Si necessaire une clé USB peut être utilisee pour restaurer la derniere image, si vous inserez une clé USB contenant le dossier de sauvegarde."
+
+msgid "Image creation FAILED!"
+msgstr "Création de l'image a échoué!"
+
+msgid "No supported receiver found!"
+msgstr "Récepteur non supporte!"
+
+msgid "Old version bootloader found."
+msgstr "Ancienne version de Bootloader trouve."
+
+msgid "Place the USB-flash drive in the (front) USB-port and switch the receiver off and on with the powerswitch on the back of the receiver."
+msgstr "Connectez la clé USB sur le port USB en facade et avec l'interrupteur au dos du récepteur éteindre et mettre sous tension l'appareil."
+
+msgid "Please be patient, a backup will now be made, because of the used filesystem the back-up will take about 5-7 minutes for this system."
+msgstr "Patienter s'il vous plaît, le systeme de fichiers utilisé pour la création de la sauvegarde est d'environ 5-7 minutes."
+
+msgid "Please check the manual of the receiver on how to restore the image."
+msgstr "Veuillez lire le manuel du récepteur pour la procedure d'installation du firmware."
+
+msgid "PLEASE READ THIS:"
+msgstr "S'IL VOUS PLAÎT LIRE CECI:"
+
+msgid "Please wait.... almost ready!"
+msgstr "Patienter.... c'est presque fini!"
+
+msgid "Press arrow up from frontpanel to start loading."
+msgstr "Appuyez sur le bouton flèche vers le haut de la facade du demodulateur pour commencer le chargement."
+
+msgid "Probable causes could be:"
+msgstr "Probablement cause par: "
+
+msgid "The content of the folder is:"
+msgstr "Le contenu du dossier est le suivant:"
+
+msgid "The program will exit now."
+msgstr "Le programme va maintenant quitter."
+
+msgid "There is a valid USB-flashdrive detected in one of the USB-ports, therefore an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr "Une clé USB est detecte dans un port USB, Il y aura une copie supplémentaire de la sauvegarde dans cette clé USB."
+
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr "Il n'y a rien à faire, clé usb valide non trouve"
+
+msgid "This only takes about 20 seconds....."
+msgstr "Cela prendra environ 20 secondes....."
+
+msgid "To back-up directly to the USB-stick, the USB-stick MUST contain a file with the name:"
+msgstr "Afin de creer une sauvegarde sur une clé USB, la clé USB doit contenir un fichier avec le nom suivant: "
+
+msgid "Time required for this process: "
+msgstr "Temps requis pour ce processus: "
+
+msgid "To restore the image:"
+msgstr "Pour restaurer l'image:"
+
+msgid "USB Image created in: "
+msgstr "USB-Image cree en: "
+
+msgid "Version"
+msgstr "Version"
+
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+"Voulez-vous faire une image USB de sauvegarde sur le disque dur? \n"
+"\n"
+"Cela ne prend que quelques minutes et est entièrement automatique.\n"
+
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+"Voulez-vous faire un back-up sur USB?\n"
+"\n"
+"Cela ne prend que quelques minutes en fonction du système de fichiers utilisé et est entièrement automatique.\n"
+"\n"
+"Assurez-vous que vous insérez une clé USB avant de sélectionner Oui."
+
+msgid "minutes"
+msgstr "minutes"
+

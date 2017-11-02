@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>BoxModeConfig</name>
+                    <packagename>enigma2-plugin-systemplugins-boxmodeconfig</packagename>
+                    <shortdescription>configuration boxmode.</shortdescription>
+                    <description>configuration boxmode.</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-boxmodeconfig" />
+	</files>
+</default>

@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>kos(oskwon@dev3)</author>
+                    <name>WOLSetup</name>
+                    <packagename>enigma2-plugin-systemplugins-wolsetup</packagename>
+                    <shortdescription>WakeOnLan Setup on your Vu+</shortdescription>
+                    <description>WakeOnLan Setup on your Vu+</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-wolsetup" />
+	</files>
+</default>

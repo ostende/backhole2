@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>oskwon</author>
+                    <name>CrashReport</name>
+                    <packagename>enigma2-plugin-systemplugins-crashreport</packagename>
+                    <shortdescription>Automatically report crashlogs to Vu+</shortdescription>
+                    <description>With the CrashReport plugin it is possible to automatically mail crashlogs found on your hard drive to Vu+.</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-crashreport" />
+	</files>
+</default>

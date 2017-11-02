@@ -1,0 +1,17 @@
+<default>
+	  <prerequisites>
+                    <tag type="Display" />
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>MiniTV</name>
+                    <packagename>enigma2-plugin-extensions-minitv</packagename>
+                    <shortdescription>Support MiniTV of your VU+</shortdescription>
+                    <description>Support MiniTV of your VU+</description>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-extensions-minitv" />
+	</files>
+</default>

@@ -1,0 +1,16 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>hschang</author>
+                    <name>LED Brightness Setup</name>
+                    <packagename>enigma2-plugin-systemplugins-ledbrightnesssetup</packagename>
+                    <shortdescription>Setup LED brightness and blink interval</shortdescription>
+                    <description>Setup LED brightness and blink interval</description>
+        </info>
+        <files type="package">
+                    <file type="package" name="enigma2-plugin-systemplugins-ledbrightnesssetup" />
+        </files>
+
+</default>

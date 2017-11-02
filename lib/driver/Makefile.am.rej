@@ -1,0 +1,12 @@
+--- lib/driver/Makefile.am	2011-07-28 14:07:33.514734895 +0200
++++ lib/driver/Makefile.am	2011-07-28 14:07:37.014483733 +0200
+@@ -18,7 +18,8 @@
+ 	rcinput.cpp \
+ 	rfmod.cpp \
+ 	memtest.cpp \
+-	sc_test.cpp
++	sc_test.cpp \
++	hdmi_cec.cpp
+ 
+ driverincludedir = $(pkgincludedir)/lib/driver
+ driverinclude_HEADERS = \
