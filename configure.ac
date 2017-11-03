@@ -197,9 +197,6 @@ lib/python/Plugins/Extensions/DLNAServer/Makefile
 lib/python/Plugins/Extensions/DLNAServer/meta/Makefile
 lib/python/Plugins/Extensions/DLNABrowser/Makefile
 lib/python/Plugins/Extensions/DLNABrowser/meta/Makefile
-lib/python/Plugins/Extensions/HbbTV/Makefile
-lib/python/Plugins/Extensions/HbbTV/meta/Makefile
-lib/python/Plugins/Extensions/HbbTV/locale/Makefile
 lib/python/Plugins/Extensions/BackupSuiteHDD/Makefile
 lib/python/Plugins/Extensions/BackupSuiteHDD/meta/Makefile
 lib/python/Plugins/Extensions/BackupSuiteHDD/locale/Makefile
