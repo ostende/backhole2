@@ -202,8 +202,6 @@ lib/python/Plugins/Extensions/BackupSuiteHDD/meta/Makefile
 lib/python/Plugins/Extensions/BackupSuiteHDD/locale/Makefile
 lib/python/Plugins/Extensions/BackupSuiteUSB/Makefile
 lib/python/Plugins/Extensions/BackupSuiteUSB/meta/Makefile
-lib/python/Plugins/Extensions/SatipClient/Makefile
-lib/python/Plugins/Extensions/SatipClient/meta/Makefile
 lib/python/Plugins/Extensions/MiniTV/Makefile
 lib/python/Plugins/Extensions/MiniTV/meta/Makefile
 lib/python/Plugins/SystemPlugins/CleanupWizard/Makefile
